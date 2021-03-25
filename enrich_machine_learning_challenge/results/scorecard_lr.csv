@@ -1,0 +1,468 @@
+transaction_description,transaction_amount,transaction_account_type,description_processed,transaction_type,transaction_class,confidence,error
+0011393060001 Transfer to Macquarie Bank - Receipt 461836 To 182741 393060001,-342.52,transaction,transfer macquarie bank receipt,credit,transfer,0.9999961295248265,0.0
+0318352 Transfer to Jimboomba Gymnastics Club - Receipt 32981 To 124190 22552503,-157.5,transaction,transfer jimboomba gymnastics club receipt,credit,transfer,0.9999961295248265,0.0
+0REGENTVILLE PS 2951 Visa Purchase - Receipt 143215 In REGENTVILLE Date 04 Mar 2019 Card xxxxxxxxxxxx7915,-49.0,transaction,regentville visa purchase receipt regentville date,credit,payment,0.9999999891169927,0.0
+0TUGGERAWONG PS 4097 Visa Purchase - Receipt 199427 In TUGGERAWONG Date 15 Nov 2018 Card xxxxxxxxxxxx5999,-20.0,transaction,tuggerawong visa purchase receipt tuggerawong date,credit,payment,0.9999999891169927,0.0
+1001026 Transfer to Blink Property - Receipt 674787 To 034215 656221,-710.0,transaction,transfer blink property receipt,credit,transfer,0.9999961295248265,0.0
+1091 OPSM Visa Purchase - Receipt 144148 In MELBOURNE Date 04 Apr 2019 Card xxxxxxxxxxxx4237,-119.0,transaction,opsm visa purchase receipt melbourne date,credit,payment,0.9999999891169927,0.0
+136 ALLIANCE Visa Purchase - Receipt 149696 In MELBOURNE Date 15 Feb 2019 Card xxxxxxxxxxxx4237,-35.0,transaction,alliance visa purchase receipt melbourne date,credit,payment,0.9999999891169927,0.0
+1800 PARK NE Visa Cash Withdrawal - Receipt 128609 Foreign Currency Amount: USD 105.00 In PARK CITY Date 18 Feb 2019 Card xxxxxxxxxxxx9809,-147.42,transaction,park visa cash withdrawal receipt foreign currency amount usd park city date,credit,cash-withdrawal,0.8697894553422689,0.0
+183820 Transfer to Qs Law Pty Ltd TA Quinn Scattini - Receipt 289053 To 014002 453021795,-137000.0,transaction,transfer law pty ltd quinn scattini receipt,credit,transfer,0.9999996150657088,0.0
+1ST CHOICE 7238 Visa Purchase - Receipt 143216 In PENRITH Date 09 Feb 2019 Card xxxxxxxxxxxx7915,-7.0,transaction,choice visa purchase receipt penrith date,credit,payment,0.9999999891169927,0.0
+28 DEGREES310119 Direct Debit - Receipt 134540 005444343305230069,-2041.46,transaction,degree direct debit receipt,credit,transfer,0.9937770239976202,0.0
+380 ESN PTY LTD Visa Purchase - Receipt 165799 In MELBOURNE Date 13 Jun 2019 Card xxxxxxxxxxxx4237,-24.95,transaction,esn pty ltd visa purchase receipt melbourne date,credit,payment,0.9999999974600848,0.0
+3D BUBS PTY LTD Visa Purchase - Receipt 198710 In SPRINGFIELD Date 09 Mar 2019 Card xxxxxxxxxxxx9772,-100.0,savings,bubs pty ltd visa purchase receipt springfield date,credit,payment,0.9999999837509057,0.0
+883549 GLEN TAYLO Transfer to Tusna PTY LTD - Receipt 5910 To 012003 837702872,-1780.5,transaction,glen taylo transfer tusna pty ltd receipt,credit,transfer,0.9999996150657088,0.0
+A & C CARPET CARE RACEVIEW EFTPOS Purchase - Receipt 563 Date 07 Feb 2019 Time 11:05AM Card xxxxxxxxxxxx1337,-90.0,savings,carpet care raceview eftpos purchase receipt date time,credit,payment,0.9999999999992466,0.0
+aa LOAN aa INTEREST 123,-20.0,other,loan interest,credit,bank-fee,0.9820320976105941,0.0
+ABBOTSFORD RD P/L Visa Purchase - Receipt 135990 In PENRITH Date 15 Mar 2019 Card xxxxxxxxxxxx8240,-125.95,transaction,abbotsford visa purchase receipt penrith date,credit,payment,0.9999999891169927,0.0
+ABCGuilin City-Guilin City-Hold for ATM debits,-200.2,transaction,abcguilin cityguilin cityhold atm debit,credit,bank-fee,0.9842833509119929,0.0
+ABCOE DISTRIBUTORS P Visa Purchase - Receipt 166618 In SOUTH PENRIT Date 31 Dec 2018 Card xxxxxxxxxxxx3306,-10.3,transaction,abcoe distributor visa purchase receipt south penrit date,credit,payment,0.9999999891169927,0.0
+ABOUT-FACE LASER AND NORTH LAKES EFTPOS Purchase - Receipt 2488 Date 16 Feb 2019 Time 11:11AM Card xxxxxxxxxxxx5999,-300.0,transaction,aboutface laser north lake eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+ABOVE GROND POOL SALES Visa Purchase - Receipt 188276 In LOGAN HOLME Date 05 Sep 2019 Card xxxxxxxxxxxx7857,-700.0,savings,grond pool sale visa purchase receipt logan holme date,credit,payment,0.9999999657334345,0.0
+Acquisitions Lambton ************ 0563 33464,-84.98,other,acquisition lambton,credit,payment,0.4574776867913107,0.0
+ADAIRS - DONCASTER Visa Purchase - Receipt 127046 In DONCASTER Date 06 Feb 2019 Card xxxxxxxxxxxx9545,-19.95,transaction,adairs doncaster visa purchase receipt doncaster date,credit,payment,0.9999999891169927,0.0
+advertising house Transfer to My Platinum P/L - Receipt 325290 To 184446 303802953,-960.0,savings,advertising house transfer platinum receipt,credit,transfer,0.9999998025254816,0.0
+AFRICAN VIBE BALGOWLAH AUS Card xx2515 Value Date: 09/08/2018,-13.65,transaction,african vibe balgowlah au value date date,credit,payment,0.9980734650753444,0.0
+AG BROWNS PLAINS BR OWNS PLAINS EFTPOS Purchase - Receipt 9636 Date 25 Feb 2019 Time 1:32PM Card xxxxxxxxxxxx5999,-29.99,transaction,brown plain owns plain eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+AHPRA Visa Purchase - Receipt 115237 In MELBOURNE Date 15 May 2019 Card xxxxxxxxxxxx9772,-170.0,savings,ahpra visa purchase receipt melbourne date,credit,payment,0.9999999657334345,0.0
+Aioi Nissay Dowa Direct Debit - Receipt 164714 01197485/6779125,-97.92,transaction,aioi nissay dowa direct debit receipt,credit,transfer,0.9937770239976202,0.0
+AIRPORT PHARMACY Visa Purchase - Receipt 153071 In BILINGA Date 17 Jul 2019 Card xxxxxxxxxxxx4237,-10.95,transaction,airport pharmacy visa purchase receipt bilinga date,credit,payment,0.9999999891169927,0.0
+AIRPORT RETAIL ENTER BILINGA EFTPOS Purchase with Cash Out - Receipt 19443 - Cash amount $50.00<BR/>Date 02 Feb 2019 Time 6:21AM Card xxxxxxxxxxxx9344,-64.33,transaction,airport retail enter bilinga eftpos purchase cash receipt cash amount >date time,credit,payment,0.9999999999989679,0.0
+AIRTRAIN TRANSFIELD Visa Purchase - Receipt 107214 In PINKENBA Date 21 Dec 2018 Card xxxxxxxxxxxx4237,-27.3,transaction,airtrain transfield visa purchase receipt pinkenba date,credit,payment,0.9999999891169927,0.0
+Alcohol - Receipt 413949 To Orange Everyday 0062704732,-500.0,savings,alcohol receipt orange everyday,credit,transfer,0.9982206747179432,0.0
+Alcohol Internal Transfer - Receipt 413949 Savings Maximiser 0043687650,500.0,transaction,alcohol internal transfer receipt saving maximiser,debit,transfer,0.9999999999999996,0.0
+ALEXANDRA TYREPOWER Visa Purchase - Receipt 153222 In ALEXANDRA Date 13 Feb 2019 Card xxxxxxxxxxxx1769,-60.0,transaction,alexandra tyrepower visa purchase receipt alexandra date,credit,payment,0.9999999891169927,0.0
+ALPINE ANIMAL DOCTORS PO REPUNKAH03 EFTPOS Purchase - Receipt 8144 Date 14 Jan 2019 Time 2:10PM Card xxxxxxxxxxxx9172,-390.61,transaction,alpine animal doctor repunkah eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+Amanda Benham Visa Purchase - Receipt 117222 In 1800984334 Date 22 Feb 2019 Card xxxxxxxxxxxx1337,-65.0,savings,amanda benham visa purchase receipt date,credit,payment,0.9999999657334345,0.0
+AMEX BIG W 0559 COLONNADES NOARLUNGA CE017,-23.0,credit-card,amex big colonnade noarlunga,credit,payment,0.9728348893855078,0.0
+AMEX HARVEY NORMAN ONLINE HOMEBUSH WES015,-800.0,credit-card,amex harvey norman online homebush wes,credit,payment,0.9986258059645634,0.0
+AMEX TARGET CHATSWOOD 91 CHATSWOOD 015,-19.0,credit-card,amex target chatswood chatswood,credit,payment,0.9728348893855078,0.0
+amh 28dec18 Transfer to Tracey Smith - Receipt 871094 To 733376 535765,-790.52,transaction,amh transfer tracey smith receipt,credit,transfer,0.9999961295248265,0.0
+AMPOL 10775 BEAUDESERT EFTPOS Purchase - Receipt 45148 Date 28 Apr 2019 Time 4:40PM Card xxxxxxxxxxxx5999,-133.07,transaction,ampol beaudesert eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+Andrew Sinclair dont spend it all at once Transfer to +61-400774466 - Receipt 183541,-60.01,transaction,andrew sinclair spend transfer receipt,credit,transfer,0.999999790445508,0.0
+Andy AMEX Travel Insurance premium BPAY Bill Payment - Receipt 523711 To AMERICAN EXPRESS 379514147431004,-746.0,transaction,andy amex travel insurance premium bpay bill payment receipt american express,credit,payment,0.5563004591609652,0.0
+Andy travel savings - Receipt 468974 From Orange Everyday 0064173672,450.0,savings,andy travel saving receipt orange everyday,debit,transfer,0.9999992652190993,0.0
+ANVET KEDRON PTY LTD Visa Purchase - Receipt 142580 In KEDRON Date 23 Aug 2019 Card xxxxxxxxxxxx9772,-44.0,savings,anvet kedron pty ltd visa purchase receipt kedron date,credit,payment,0.9999999837509057,0.0
+AP#11016544 FROM M P & K MACPHERSON,600.0,transaction,macpherson,debit,transfer,0.9923031880047354,0.0
+AP#12243218 TO KIWIBANK PERSONAL MASTERCARD,-1000.0,transaction,kiwibank personal master,credit,payment,0.7172988517343493,0.0
+AP#12409235 TO VODAFONE (MOBILE),-50.0,transaction,vodafone mobile,credit,payment,0.6848436448733672,0.0
+AP#12717228 TO TRUSTPOWER LTD,-170.0,transaction,trustpower ltd,credit,payment,0.7653796174267516,0.0
+AP#14163037 FROM I IATI Transfer from I IATI - 03 LOANPMT,14.0,savings,iati transfer iati loanpmt,debit,transfer,0.9999999994667723,0.0
+AP#8986466 TO AMI INSURANCE LTD,-50.0,transaction,ami insurance ltd,credit,payment,0.7653796174267516,0.0
+AS Offset Savings 3 Jan Internal Transfer - Receipt 104423 Orange Everyday 0064173672,1675.0,transaction,offset saving jan internal transfer receipt orange everyday,debit,transfer,1.0,0.0
+ASHCROFTS IGA Visa Purchase - Receipt 172771 In ERSKINE PARK Date 11 Sep 2019 Card xxxxxxxxxxxx3306,-3.0,transaction,ashcrofts iga visa purchase receipt erskine park date,credit,payment,0.9999999891169927,0.0
+ASIAN PEARL PTY LTD Visa Purchase - Receipt 195697 In GLENMORE PAR Date 22 Dec 2018 Card xxxxxxxxxxxx3306,-46.0,transaction,asian pearl pty ltd visa purchase receipt glenmore par date,credit,payment,0.9999999974600848,0.0
+ATLANTIC SEAFOOD Visa Purchase - Receipt 123496 In PENRITH Date 21 Jun 2019 Card xxxxxxxxxxxx3306,-13.8,transaction,atlantic seafood visa purchase receipt penrith date,credit,payment,0.9999999891169927,0.0
+ATM Rebate Receipt 265 We paid the ATM fee for you!,2.5,transaction,atm rebate receipt paid atm fee,debit,refund,0.9999998951551584,0.0
+ATO PAYMENT Visa Purchase - Receipt 101515 In SYDNEY Date 08 Sep 2019 Card xxxxxxxxxxxx7857,-122.0,savings,ato payment visa purchase receipt sydney date,credit,payment,0.9999993923377299,0.0
+Ausmobar Pty Ltd Douglas-Daly TAP AND PAY 3867,-24.5,credit-card,ausmobar pty ltd douglasdaly tap pay,credit,payment,0.9951776144901331,0.0
+AUSPOST ONLINE RETURNS Visa Purchase - Receipt 199171 In MELBOURNE Date 03 Aug 2019 Card xxxxxxxxxxxx8240,-8.95,transaction,auspost online return visa purchase receipt melbourne date,credit,payment,0.999999979140969,0.0
+AUSTRALIAN CATHOLIC UN NORTH SYDNEY NS AUS Card xx3658 Value Date: 27/07/2018,-10.0,transaction,australian catholic north sydney au value date date,credit,payment,0.9986645287362536,0.0
+AUSTRALIAN RED CROSS Visa Purchase - Receipt 198100 In NORTH IPSWIC Date 16 Feb 2019 Card xxxxxxxxxxxx7857,-19.0,savings,australian red cross visa purchase receipt north ipswic date,credit,payment,0.9999999657334345,0.0
+AUTOMOTIVE BRANDS GR Visa Purchase - Receipt 107223 In DARRA Date 17 Jul 2019 Card xxxxxxxxxxxx9772,-179.0,savings,automotive brand visa purchase receipt darra date,credit,payment,0.9999999657334345,0.0
+AVALON NO 1 PTY LTD Visa Purchase - Receipt 149402 In LARA Date 17 Jun 2019 Card xxxxxxxxxxxx4237,-10.5,transaction,avalon pty ltd visa purchase receipt lara date,credit,payment,0.9999999974600848,0.0
+AWATEF KARAM Visa Purchase - Receipt 144094 In VIRGINIA Date 08 Apr 2019 Card xxxxxxxxxxxx5999,-40.0,transaction,awatef karam visa purchase receipt virginia date,credit,payment,0.9999999891169927,0.0
+B INDULGED HAIR AND EASTERN HEI EFTPOS Purchase - Receipt 4090 Date 23 Jan 2019 Time 4:48PM Card xxxxxxxxxxxx7857,-120.0,savings,indulged hair eastern hei eftpos purchase receipt date time,credit,payment,0.9999999999992466,0.0
+B INDULGED Visa Purchase - Receipt 111414 In EASTERN HEIG Date 21 Jan 2019 Card xxxxxxxxxxxx7857,-30.0,savings,indulged visa purchase receipt eastern heig date,credit,payment,0.9999999657334345,0.0
+BABABOI PTY LTD Visa Purchase - Receipt 154236 In DOCKLANDS Date 02 Feb 2019 Card xxxxxxxxxxxx0985,-18.8,transaction,bababoi pty ltd visa purchase receipt docklands date,credit,payment,0.9999999974600848,0.0
+BACINO BAR BALGOWLAH BALGOWLAH NS AUS Card xx7709 Value Date: 03/08/2018,-18.2,transaction,bacino bar balgowlah balgowlah au value date date,credit,payment,0.9980734650753444,0.0
+BACK TO BASICS SPORT KINGSWOOD EFTPOS Purchase - Receipt 4410 Date 08 Dec 2018 Time 9:27AM Card xxxxxxxxxxxx7915,-212.0,transaction,back basic sport kingswood eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+BALGOWLAH HTS DELI BALGOWLAH HEI NS AUS Card xx7709 Value Date: 13/08/2018,-8.0,transaction,balgowlah hts deli balgowlah hei au value date date,credit,payment,0.9980734650753444,0.0
+BALGOWLAH SEAFOOD PQPS BALGOWLAH AUS Card xx2515 Value Date: 08/08/2018,-19.7,transaction,balgowlah seafood pqps balgowlah au value date date,credit,payment,0.9980734650753444,0.0
+BALI GIFTS PTY LTD Visa Purchase - Receipt 170224 In ORMEAU Date 24 Dec 2018 Card xxxxxxxxxxxx7857,-48.0,savings,bali gift pty ltd visa purchase receipt ormeau date,credit,payment,0.9999999837509057,0.0
+BAOLE AUSTRALIA PTY Visa Purchase - Receipt 106364 In MELBOURNE Date 01 Apr 2019 Card xxxxxxxxxxxx4237,-18.7,transaction,baole australia pty visa purchase receipt melbourne date,credit,payment,0.999999994803827,0.0
+BAREFOOT BLUEPRINT PUB Visa Purchase - Receipt 164402 In MELBOURNE Date 30 Jun 2019 Card xxxxxxxxxxxx9772,-397.0,savings,barefoot blueprint pub visa purchase receipt melbourne date,credit,payment,0.9999999657334345,0.0
+BARRYS FISH MARKET Visa Purchase - Receipt 177763 In PENRITH Date 03 Nov 2018 Card xxxxxxxxxxxx7915,-54.88,transaction,barrys fish market visa purchase receipt penrith date,credit,payment,0.9999999891169927,0.0
+BASKIN ROBINS BROWNS Visa Purchase - Receipt 120838 In BROWNS PLAIN Date 31 Dec 2018 Card xxxxxxxxxxxx4237,-32.6,transaction,baskin robin brown visa purchase receipt brown plain date,credit,payment,0.9999999891169927,0.0
+BATHURST REGN COUNCIL Visa Purchase - Receipt 125764 In BATHURST Date 23 Jan 2019 Card xxxxxxxxxxxx7915,-22.0,transaction,bathurst regn council visa purchase receipt bathurst date,credit,payment,0.9999999891169927,0.0
+BATTERY WORLD IPSWICH Visa Purchase - Receipt 199076 In WEST IPSWICH Date 22 Mar 2019 Card xxxxxxxxxxxx1337,-174.0,savings,battery world ipswich visa purchase receipt west ipswich date,credit,payment,0.9999999657334345,0.0
+BAYCORP Visa Purchase - Receipt 142142 In PARRAMATTA Date 03 Jan 2019 Card xxxxxxxxxxxx9344,-187.0,transaction,baycorp visa purchase receipt parramatta date,credit,payment,0.9999999891169927,0.0
+BBL-Jimboomba Branch Ji mboomba 0 Receipt 4940 ATM owner fee of $2.00 charged by BBL-Jimboomba Branch Ji mboomba 0 Date 25 Mar 2019 Time 6:24AM Card xxxxxxxxxxxx5999,-192.0,transaction,bbljimboomba branch mboomba receipt atm owner fee charged bbljimboomba branch mboomba date time,credit,cash-withdrawal,0.9978393462663763,0.0
+Bbq Internal Transfer - Receipt 238778 Orange Everyday 0031265789,-20.0,transaction,bbq internal transfer receipt orange everyday,credit,transfer,0.9999999999999964,0.0
+BCC KGS CAR PARK Visa Purchase - Receipt 193189 In BRISBANE Date 21 Nov 2018 Card xxxxxxxxxxxx7857,-22.0,savings,blind carbon copy kg car park visa purchase receipt brisbane date,credit,payment,0.9999999657334345,0.0
+BCF IPSWICH Visa Purchase - Receipt 115199 In IPSWICH Date 14 Jan 2019 Card xxxxxxxxxxxx1337,-31.99,savings,bcf ipswich visa purchase receipt ipswich date,credit,payment,0.9999999657334345,0.0
+BEACH BUMS CORP P/L Visa Purchase - Receipt 108227 In FORSTER Date 12 Jul 2019 Card xxxxxxxxxxxx3306,-9.3,transaction,beach bum corp visa purchase receipt forster date,credit,payment,0.9999999891169927,0.0
+BEACH GRILL CAFE AND K Visa Purchase - Receipt 149543 In BALLINA Date 07 Jan 2019 Card xxxxxxxxxxxx9315,-18.7,transaction,beach grill cafe visa purchase receipt ballina date,credit,payment,0.9999999891169927,0.0
+BEACON LIGHTING 83 Visa Purchase - Receipt 170698 In PENRITH Date 14 Nov 2018 Card xxxxxxxxxxxx7915,-25.9,transaction,beacon lighting visa purchase receipt penrith date,credit,payment,0.9999999891169927,0.0
+BEAUDESERT FAIR BAKE Visa Purchase - Receipt 115690 In BEAUDESERT Date 05 Jun 2019 Card xxxxxxxxxxxx5999,-16.0,transaction,beaudesert fair bake visa purchase receipt beaudesert date,credit,payment,0.9999999891169927,0.0
+BEAUDESERT FAIR SHOPPING BEAUDESERT Receipt 1729 ATM owner fee of $2.50 charged by BEAUDESERT FAIR SHOPPING BEAUDESERT Date 19 Jul 2019 Time 9:34AM Card xxxxxxxxxxxx5999,-62.5,transaction,beaudesert fair shopping beaudesert receipt atm owner fee charged beaudesert fair shopping beaudesert date time,credit,cash-withdrawal,0.9978393462663763,0.0
+BEAUDESERT HARDWARE Visa Purchase - Receipt 146550 In BEAUDESERT Date 03 Jan 2019 Card xxxxxxxxxxxx4237,-9.95,transaction,beaudesert hardware visa purchase receipt beaudesert date,credit,payment,0.9999999891169927,0.0
+BEAUDESERT MEDICAL Visa Purchase - Receipt 184346 In BEAUDESERT Date 02 Mar 2019 Card xxxxxxxxxxxx5999,-35.25,transaction,beaudesert medical visa purchase receipt beaudesert date,credit,payment,0.9999999891169927,0.0
+BEAUDESERT PHARMACY BE AUDESERT Q EFTPOS Purchase - Receipt 15514 Date 13 Feb 2019 Time 11:17AM Card xxxxxxxxxxxx5999,-20.94,transaction,beaudesert pharmacy audesert eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+BEAUTY STOP RIVERLINK Visa Purchase - Receipt 105338 In IPSWICH Date 22 Jan 2019 Card xxxxxxxxxxxx7857,-32.0,savings,beauty stop riverlink visa purchase receipt ipswich date,credit,payment,0.9999999657334345,0.0
+BELLA BELLISSIMO PIZ FORSTER EFTPOS Purchase - Receipt 102917 Date 15 Dec 2018 Time 7:05PM Card xxxxxxxxxxxx7915,-101.0,transaction,bella bellissimo piz forster eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+Berkelo - Mosman Mosman NS AUS Tap and Pay xx6620 Value Date: 14/10/2018,-3.5,transaction,berkelo mosman mosman au tap pay value date date,credit,payment,0.9998718930486252,0.0
+Bertsy and Co Visa Purchase - Receipt 182583 In WANGARATTA Date 12 Feb 2019 Card xxxxxxxxxxxx1748,-29.0,transaction,bertsy visa purchase receipt wangaratta date,credit,payment,0.9999999891169927,0.0
+BEST & LESS IPSWICH RI Visa Purchase - Receipt 105722 In NORTH IPSWIC Date 16 Feb 2019 Card xxxxxxxxxxxx7857,-22.0,savings,best le ipswich visa purchase receipt north ipswic date,credit,payment,0.9999999657334345,0.0
+BEST AND LESS Visa Purchase - Receipt 198572 In TUGGERAH Date 06 Nov 2018 Card xxxxxxxxxxxx5999,-65.0,transaction,best le visa purchase receipt tuggerah date,credit,payment,0.9999999891169927,0.0
+BEST CHOICE COFFE PTY Visa Purchase - Receipt 174774 In MELBOURNE Date 11 Dec 2018 Card xxxxxxxxxxxx4237,-13.8,transaction,best choice coffe pty visa purchase receipt melbourne date,credit,payment,0.999999994803827,0.0
+Big Petes Eats COLES BAY AU Card xx4332 Value Date: 21/11/2018,-43.0,transaction,big petes eats cole bay value date date,credit,payment,0.999913036679362,0.0
+BIGWAREHOUSE SPARES CORRIMAL AU Card xx3021 Value Date: 10/08/2019,-93.23,transaction,bigwarehouse spare corrimal value date date,credit,payment,0.998562065108832,0.0
+BILL BUCKLE AUTO SER BROOKVALE NS AUS Card xx7977 Value Date: 18/11/2019,-140.0,transaction,bill buckle auto ser brookvale au value date date,credit,payment,0.9980734650753444,0.0
+Bill Payment EVANS S A Ref: Mel catch up,775.0,transaction,bill payment evans ref mel catch,debit,transfer,0.9999984258552571,0.0
+BLACKHEATH BUTCHERY Visa Purchase - Receipt 156490 In BLACKHEATH Date 13 Nov 2018 Card xxxxxxxxxxxx7915,-11.65,transaction,blackheath butchery visa purchase receipt blackheath date,credit,payment,0.9999999891169927,0.0
+Blizzard Entertainment Bl Visa Purchase - Receipt 178925 Foreign Currency Amount: 0.00 In Schiphol-Rij Date 30 Aug 2019 Card xxxxxxxxxxxx7857,-16.5,savings,blizzard entertainment visa purchase receipt foreign currency amount schipholrij date,credit,payment,0.9999999657334345,0.0
+BLOOMFIELD ST CLEVELAND CLEVELAND Receipt 230 ATM owner fee of $0.00 charged by BLOOMFIELD ST CLEVELAND CLEVELAND Date 25 Jul 2019 Time 12:27PM Card xxxxxxxxxxxx7857,-250.0,savings,bloomfield cleveland cleveland receipt atm owner fee charged bloomfield cleveland cleveland date time,credit,cash-withdrawal,0.9940096222351094,0.0
+BLS*ONLYDOMAINS.COM LONDON GBR Card xx7977 AUD 10.95 Value Date: 06/02/2020,-10.95,transaction,bls london gbr aud value date date,credit,payment,0.998562065108832,0.0
+BMP WESTSIDE PTY LTD Visa Purchase - Receipt 189149 In ST CLAIR Date 22 Aug 2019 Card xxxxxxxxxxxx8240,-3.3,transaction,bmp westside pty ltd visa purchase receipt clair date,credit,payment,0.9999999974600848,0.0
+BOLT.EU /O/2001311926-Eveleigh NSW-Hold for ATM debits for offline transactions,-150.0,transaction,bolt eveleigh nswhold atm debit offline transaction,credit,bank-fee,0.9842833509119929,0.0
+Booval Branch Bo oval Q Receipt 962496 ATM owner fee of $2.75 charged by Booval Branch Bo oval Q Date 05 Sep 2019 Time 12:25PM Card xxxxxxxxxxxx1337,-22.75,savings,booval branch oval receipt atm owner fee charged booval branch oval date time,credit,cash-withdrawal,0.9940096222351094,0.0
+BOOVAL CALTEX BOOVAL Receipt 878702 ATM owner fee of $0.00 charged by BOOVAL CALTEX BOOVAL Date 29 Apr 2019 Time 2:14PM Card xxxxxxxxxxxx7857,-60.0,savings,booval caltex booval receipt atm owner fee charged booval caltex booval date time,credit,cash-withdrawal,0.9940096222351094,0.0
+Booval Fair Shop. Cent.Bo oval Q Receipt 928950 ATM owner fee of $2.75 charged by Booval Fair Shop. Cent.Bo oval Q Date 13 Aug 2019 Time 4:38PM Card xxxxxxxxxxxx7857,-22.75,savings,booval fair shop cent oval receipt atm owner fee charged booval fair shop cent oval date time,credit,cash-withdrawal,0.9940096222351094,0.0
+BOOVAL NEWSAGENCY Visa Purchase - Receipt 124909 In BOOVAL Date 28 May 2019 Card xxxxxxxxxxxx1337,-23.6,savings,booval newsagency visa purchase receipt booval date,credit,payment,0.9999999657334345,0.0
+BOOVAL STATION BOOVAL EFTPOS Purchase - Receipt 3485 Date 26 Aug 2019 Time 11:12AM Card xxxxxxxxxxxx7857,-4.8,savings,booval station booval eftpos purchase receipt date time,credit,payment,0.9999999999992466,0.0
+BOOVAL STATION Visa Purchase - Receipt 190840 In BOOVAL Date 13 Aug 2019 Card xxxxxxxxxxxx1337,-50.0,savings,booval station visa purchase receipt booval date,credit,payment,0.9999999657334345,0.0
+Booze Internal Transfer - Receipt 602433 Orange Everyday 0031265789,-200.0,transaction,booze internal transfer receipt orange everyday,credit,transfer,0.9999999999999964,0.0
+BOQ - BP The Gap The Gap Receipt 6214 ATM owner fee of $2.50 charged by BOQ - BP The Gap The Gap Date 27 Jul 2019 Time 12:24PM Card xxxxxxxxxxxx1337,-102.5,savings,boq gap gap receipt atm owner fee charged boq gap gap date time,credit,cash-withdrawal,0.9940096222351094,0.0
+Bothwell Garage Bothwell TAP AND PAY 3867,-7.9,credit-card,bothwell garage bothwell tap pay,credit,payment,0.9728348893855078,0.0
+Bottom Of The Harbour Mosman NS AUS Card xx2515 Value Date: 02/08/2018,-20.0,transaction,bottom harbour mosman au value date date,credit,payment,0.9980734650753444,0.0
+BOWEN HILLS STATION Visa Purchase - Receipt 183847 In BOWEN HILLS Date 26 Aug 2019 Card xxxxxxxxxxxx1337,-60.0,savings,bowen hill station visa purchase receipt bowen hill date,credit,payment,0.9999999657334345,0.0
+BP 1975 AUS Card xx0002 Value Date: 25/07/2018,-802.53,transaction,au value date date,credit,payment,0.9980734650753444,0.0
+BP 2GO BERHA 483561******2355 Orig date 06/03/2019,-8.49,transaction,berha orig date,credit,payment,0.9995060672084537,0.0
+BP 2GO CANTERBURY9499 - Visa Purchase - Receipt 167061In CANTERBURY Date 26 Apr 2019 Card 462263xxxxxx4134,-40.68,transaction,canterbury visa purchase receipt canterbury date,credit,payment,0.9999999891169927,0.0
+BPAY AGL South Aust P/L 33589 CommBiz 109584949139668337 BP AGL,-3721.08,other,bpay angel south aust commbiz angel,credit,payment,0.4574776867913107,0.0
+BPAY ALL SAINTS PRIMARY SCHOOL,-10.1,credit-card,bpay saint primary school,credit,payment,0.9728348893855078,0.0
+BPAY ASSUMPTION SCHOOL BATHURST,-10.1,credit-card,bpay assumption school bathurst,credit,payment,0.9728348893855078,0.0
+BPAY AUSTRALASIAN COLLEGE FOR EMERGENCY MEDICINE,-10.1,credit-card,bpay australasian college emergency medicine,credit,payment,0.9728348893855078,0.0
+BPAY AUSTRALIAN ACUPUNCTURE AND CHINESE MEDICINE ASSOC,-10.1,credit-card,bpay australian acupuncture chinese medicine assoc,credit,payment,0.9728348893855078,0.0
+BPAY Australian Clinical Labs,-10.1,credit-card,bpay australian clinical lab,credit,payment,0.9728348893855078,0.0
+BPAY AUSTRALIAN COMMUNICATIONS AND MEDIA AUTHORITY 2,-10.1,credit-card,bpay australian communication medium authority,credit,payment,0.9728348893855078,0.0
+BPAY Australian Military Bank,-10.1,credit-card,bpay australian military bank,credit,payment,0.9728348893855078,0.0
+BPAY AUSTRALIAN RECEIVABLES LIMITED,-10.1,credit-card,bpay australian receivables limited,credit,payment,0.9728348893855078,0.0
+BPAY AUSTRALIAN SCHOOL OF PERFORMING ARTS,-10.1,credit-card,bpay australian school performing art,credit,payment,0.9728348893855078,0.0
+BPAY BETHANY CATHOLIC PRIMARY GLENMORE PARK,-10.1,credit-card,bpay bethany catholic primary glenmore park,credit,payment,0.9728348893855078,0.0
+BPAY BETHANY LUTHERAN PRIMARY SCHOOL,-10.1,credit-card,bpay bethany lutheran primary school,credit,payment,0.9728348893855078,0.0
+BPAY COLES MASTERCARD MOB Ref-5446471152337303 #291804139,-3500.0,transaction,bpay cole master mob ref,credit,payment,0.9484765627965391,0.0
+BPAY Coles Personal Loans,-470.0,transaction,bpay cole personal loan,credit,payment,0.9484765627965391,0.0
+BPAY CORRECTIVE SERVICES NEW SOUTH WALES,-10.1,credit-card,bpay corrective service new south wale,credit,payment,0.9728348893855078,0.0
+BPAY Oral Health Services Tasmania,-10.1,credit-card,bpay oral health service tasmania,credit,payment,0.9728348893855078,0.0
+BPAY: MCC Forster Rates Ref-5000253285 #142269000,-20.0,credit-card,bpay mcc forster rate ref,credit,payment,0.9728348893855078,0.0
+BPAY: TELSTRA CORP LTD IVR Ref-2000036580718 #253885205,-2.0,credit-card,bpay telstra corp ltd ivr ref,credit,payment,0.9860574420955617,0.0
+Brae Cumming Happy Birthdy Osko Payment to 012341 211847471 - Receipt 96067 - Ref Number NOTPROVIDED,-150.0,transaction,brae cumming happy birthdy osko payment receipt ref number notprovided,credit,payment,0.5563004591609652,0.0
+BREADTOP GRAND PLAZA Visa Purchase - Receipt 147426 In BROWNS PLAIN Date 02 Jul 2019 Card xxxxxxxxxxxx5999,-14.3,transaction,breadtop grand plaza visa purchase receipt brown plain date,credit,payment,0.9999999891169927,0.0
+BREADTOP GRAND PLAZA Visa Purchase - Receipt 181334 In BROWNS PLAIN Date 04 Feb 2019 Card xxxxxxxxxxxx5999,-13.1,transaction,breadtop grand plaza visa purchase receipt brown plain date,credit,payment,0.9999999891169927,0.0
+Brisbane Bird & Exoti Visa Purchase - Receipt 190842 In Greenslopes Date 15 Aug 2019 Card xxxxxxxxxxxx9772,-133.0,savings,brisbane bird exoti visa purchase receipt greenslopes date,credit,payment,0.9999999657334345,0.0
+CABOOLTURE CALTEX CABOOLTURE Receipt 785982 ATM owner fee of $0.00 charged by CABOOLTURE CALTEX CABOOLTURE Date 03 Sep 2019 Time 10:51AM Card xxxxxxxxxxxx1337,-280.0,savings,caboolture caltex caboolture receipt atm owner fee charged caboolture caltex caboolture date time,credit,cash-withdrawal,0.9940096222351094,0.0
+CAFE ON THE HILL Visa Purchase - Receipt 182296 In IPSWICH Date 24 Mar 2019 Card xxxxxxxxxxxx7857,-4.5,savings,cafe hill visa purchase receipt ipswich date,credit,payment,0.9999999657334345,0.0
+CAFE UPSTAIRS PTY LIMI Visa Purchase - Receipt 123495 In KINGSWOOD Date 21 Jun 2019 Card xxxxxxxxxxxx3306,-17.0,transaction,cafe upstairs pty limi visa purchase receipt kingswood date,credit,payment,0.999999994803827,0.0
+CAFE ZO ZO NEUTRAL BAY AUS AUS Card xx4381 Value Date: 20/02/2020,-15.65,credit-card,cafe neutral bay au au value date date,credit,payment,0.9999988581235144,0.0
+CAKES AROUND TOWN Visa Purchase - Receipt 143336 In DARRA Date 17 Jul 2019 Card xxxxxxxxxxxx7857,-42.7,savings,cake around town visa purchase receipt darra date,credit,payment,0.9999999657334345,0.0
+Coffee and breaky for Glen Internal Transfer - Receipt 15133 Orange Everyday 0031265789,-20.0,transaction,coffee breaky glen internal transfer receipt orange everyday,credit,transfer,0.9999999999999964,0.0
+COINOP OPERATIONS PT Visa Purchase - Receipt 105340 In BASSENDEAN Date 22 Jan 2019 Card xxxxxxxxxxxx7857,-5.0,savings,coinop operation visa purchase receipt bassendean date,credit,payment,0.9999999657334345,0.0
+COLD ROCK SOUTHBANK Visa Purchase - Receipt 147422 In SOUTH BRISBA Date 30 Jun 2019 Card xxxxxxxxxxxx4237,-7.0,transaction,cold rock southbank visa purchase receipt south brisba date,credit,payment,0.9999999891169927,0.0
+COSTCO WHOLESALE AUSTR Visa Purchase - Receipt 198296 In BUNDAMBA Date 23 Jun 2019 Card xxxxxxxxxxxx9772,-114.58,savings,costco wholesale austr visa purchase receipt bundamba date,credit,payment,0.9999999657334345,0.0
+COSTUMEBOX.COM.AU BROOKVALE NS AUS Card xx7709 Value Date: 21/08/2018,-46.99,transaction,brookvale au value date date,credit,payment,0.9980734650753444,0.0
+COUNCIL RATES BPAY Bill Payment - Receipt 156920 To PENRITH CITY COUNCIL 96648444,-70.0,transaction,council rate bpay bill payment receipt penrith city council,credit,payment,0.5563004591609652,0.0
+COUNTRY & WESTON BAKER NORTH MACLE EFTPOS Purchase - Receipt 11604 Date 23 Mar 2019 Time 9:06AM Card xxxxxxxxxxxx5999,-12.4,transaction,country weston baker north macle eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+CRAZZYDEALZ Visa Purchase - Receipt 109384 Foreign Currency Amount: USD 25.90 In HTTPSCRAZZYD Date 13 Jan 2019 Card xxxxxxxxxxxx1748,-36.1,transaction,crazzydealz visa purchase receipt foreign currency amount usd httpscrazzyd date,credit,payment,0.9999999891169927,0.0
+CROWN MEL THE PUB Visa Purchase - Receipt 117425 In SOUTHBANK Date 02 Dec 2018 Card xxxxxxxxxxxx4237,-39.0,transaction,crown mel pub visa purchase receipt southbank date,credit,payment,0.9999999891169927,0.0
+CROWN PROMENADE MELB Visa Purchase - Receipt 134436 In SOUTHBANK Date 20 Aug 2019 Card xxxxxxxxxxxx4832,-255.02,credit-card,crown promenade melb visa purchase receipt southbank date,credit,payment,0.9999999992312631,0.0
+CRUST - IDALIA SOUTHPORT QL AUS Card xx9968 Value Date: 16/02/2019,-33.0,transaction,crust idalia southport au value date date,credit,payment,0.9980734650753444,0.0
+CT MART ABECKETT PTY Visa Purchase - Receipt 107442 In MELBOURNE Date 21 Feb 2019 Card xxxxxxxxxxxx4237,-5.0,transaction,mart abeckett pty visa purchase receipt melbourne date,credit,payment,0.999999994803827,0.0
+CUSC BIG W 0127\LISM ORE NSW 07/07/19 eftpos,-26.5,savings,cusc big lism ore nsw date eftpos,credit,payment,0.9999999896542614,0.0
+CUSC CALTEX ALBION PARK RAI ALBION PARK 03/01/19 eftpos,-30.01,savings,cusc caltex albion park rai albion park date eftpos,credit,payment,0.9999999896542614,0.0
+CUSC COLES EXPRESS 1881 MANGO HILL 20/06/19 eftpos,-50.33,transaction,cusc cole express mango hill date eftpos,credit,payment,0.9999999935304613,0.0
+CUSC JB HI FI BLACKTOWN BLACKTOWN 26/12/19 eftpos,-19.2,transaction,cusc blacktown blacktown date eftpos,credit,payment,0.999999979204389,0.0
+CUSC KMART 1002 BLACKTOWN 06/06/19 eftpos,-17.0,transaction,cusc kmart blacktown date eftpos,credit,payment,0.999999979204389,0.0
+CUSC PLINE PHARM LISMORE LIS MORE NS 01/09/19 eftpos,-93.95,savings,cusc pline pharm lismore li date eftpos,credit,payment,0.9999999896542614,0.0
+CUSC TARGET 5133 BROWNS PLAIN 27/12/19 eftpos,-20.15,transaction,cusc target brown plain date eftpos,credit,payment,0.999999979204389,0.0
+CUSC WOOLWORTHS 3307\HAWT HORN VIC 19/08/19 eftpos,-25.0,transaction,cusc woolworth hawt horn vic date eftpos,credit,payment,0.9999999849392553,0.0
+DAHLSENS BUILDING CE MYRTLEFORD EFTPOS Purchase - Receipt 13008 Date 12 Jan 2019 Time 12:18PM Card xxxxxxxxxxxx9172,-87.99,transaction,dahlsens building myrtleford eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+DAIMEON TODD MILTON WE ST IPSWICH EFTPOS Purchase - Receipt 28592 Date 07 Feb 2019 Time 5:36PM Card xxxxxxxxxxxx7857,-23.0,savings,daimeon todd milton ipswich eftpos purchase receipt date time,credit,payment,0.9999999999992466,0.0
+DAISO INDUSTRIES Visa Purchase - Receipt 160794 In REDBANK PLAI Date 05 Dec 2018 Card xxxxxxxxxxxx7857,-21.0,savings,daiso industry visa purchase receipt redbank plai date,credit,payment,0.9999999657334345,0.0
+David Fyfe anz credit card Osko Payment to 014271 461820319 - Receipt 331434 - Ref Number NOTPROVIDED,-460.0,savings,david fyfe anz credit osko payment receipt ref number notprovided,credit,payment,0.8313423120023137,0.0
+David Fyfe Transfer to 923100 0035326002 - Receipt 358241,-80.62,savings,david fyfe transfer receipt,credit,transfer,0.9999999893084125,0.0
+DC- Airport Retail EnteEa gle Farm 0 Receipt 2136 ATM owner fee of $2.90 charged by DC- Airport Retail EnteEa gle Farm 0 Date 26 Dec 2018 Time 2:24PM Card xxxxxxxxxxxx5999,-502.9,transaction,airport retail enteea gle farm receipt atm owner fee charged airport retail enteea gle farm date time,credit,cash-withdrawal,0.9978393462663763,0.0
+DCP-Chillingham VillageCh illingham 0 Receipt 5884 ATM owner fee of $2.90 charged by DCP-Chillingham VillageCh illingham 0 Date 23 Jan 2019 Time 11:06AM Card xxxxxxxxxxxx1337,-22.9,savings,dcpchillingham villagech illingham receipt atm owner fee charged dcpchillingham villagech illingham date time,credit,cash-withdrawal,0.9940096222351094,0.0
+DCP-Jimboomba Ji mboomba 0 Receipt 9514 ATM owner fee of $2.50 charged by DCP-Jimboomba Ji mboomba 0 Date 30 Jan 2019 Time 5:39PM Card xxxxxxxxxxxx5999,-22.5,transaction,dcpjimboomba mboomba receipt atm owner fee charged dcpjimboomba mboomba date time,credit,cash-withdrawal,0.9978393462663763,0.0
+DCP-Spar Express Up per Coomera0 Receipt 7296 ATM owner fee of $2.90 charged by DCP-Spar Express Up per Coomera0 Date 01 Jan 2019 Time 3:15PM Card xxxxxxxxxxxx4237,-102.9,transaction,dcpspar express per coomera receipt atm owner fee charged dcpspar express per coomera date time,credit,cash-withdrawal,0.9978393462663763,0.0
+DCP-Worongary Village Wo rongary 0 Receipt 4087 ATM owner fee of $2.80 charged by DCP-Worongary Village Wo rongary 0 Date 03 Mar 2019 Time 2:30PM Card xxxxxxxxxxxx5999,-152.8,transaction,dcpworongary village rongary receipt atm owner fee charged dcpworongary village rongary date time,credit,cash-withdrawal,0.9978393462663763,0.0
+DE mortgage Transfer to Paul Watson Fiona Bittlestone - Receipt 26868 To 633000 153292065,-820.0,transaction,mortgage transfer paul watson fiona bittlestone receipt,credit,transfer,0.9999961295248265,0.0
+DEBIT CARD PURCHASE - BICKENBACH Springvale VIC,-10.1,credit-card,debit purchase bickenbach springvale vic,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE - Lawyers Melbourne VIC,-10.1,credit-card,debit purchase lawyer melbourne vic,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE - Newcastle Kotara NSW,-10.1,credit-card,debit purchase newcastle kotara nsw,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 's Engine Worx Campbellfield VIC,-10.1,credit-card,debit purchase engine worx campbellfield vic,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE ( Le) Poiss on R ouge New York NY,-10.1,credit-card,debit purchase poi ouge new york,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE @ Yack Yackandandah VIC,-10.1,credit-card,debit purchase yack yackandandah vic,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE / Hills Direct Alarm Supplies Fyshwick ACT,-10.1,credit-card,debit purchase hill direct alarm supply fyshwick act,credit,payment,0.999999999867194,0.0
+DEBIT CARD PURCHASE & Air Solutions Mica Creek QLD,-10.1,credit-card,debit purchase air solution mica creek qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE & Allied Mooroolbark Melbourne VIC,-10.1,credit-card,debit purchase allied mooroolbark melbourne vic,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE & Bike Northbridge WA,-10.1,credit-card,debit purchase bike northbridge,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE & Coote Wetherill Park NSW,-10.1,credit-card,debit purchase coote wetherill park nsw,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE & District Woodworkers Guild Portsmith QLD,-10.1,credit-card,debit purchase district woodworker guild portsmith qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE & Ford Dalby QLD,-10.1,credit-card,debit purchase ford dalby qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE & Northey Sales Cunderdin WA,-10.1,credit-card,debit purchase northey sale cunderdin,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE & Partners Winton QLD,-10.1,credit-card,debit purchase partner winton qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 1 921 Hai r Burwood Heights NSW,-10.1,credit-card,debit purchase hi burwood height nsw,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 1 982 Es presso Subiaco WA,-10.1,credit-card,debit purchase presso subiaco,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 121 Canno nvale R ainforest Ce ntre Cannonvale QLD,-10.1,credit-card,debit purchase canno nvale ainforest ntre cannonvale qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 121 Cannonvale Rainforest Centre Cannonva le QLD,-10.1,credit-card,debit purchase cannonvale rainforest centre cannonva qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 13 00-Dial-Me Subiaco WA,-10.1,credit-card,debit purchase dialme subiaco,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 1300-Dial-Me Subiaco WA,-10.1,credit-card,debit purchase dialme subiaco,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 1921 Hair Burwood Heights NSW,-10.1,credit-card,debit purchase hair burwood height nsw,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 1982 Espresso Subiaco WA,-10.1,credit-card,debit purchase espresso subiaco,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 2306 Windale NSW,-10.1,credit-card,debit purchase windale nsw,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 2nd Life Furniture Maryborough QLD,-10.1,credit-card,debit purchase life furniture maryborough qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 3 Addictions Neutral Bay NSW,-10.1,credit-card,debit purchase addiction neutral bay nsw,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 360 fitness group Gordonvale QLD,-10.1,credit-card,debit purchase fitness group gordonvale qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 360 group Gordonvale QLD,-10.1,credit-card,debit purchase group gordonvale qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 4 8 Wa tt S t Newcastle NSW,-10.1,credit-card,debit purchase newcastle nsw,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 4 Ki Coffe & Food Anglesea,-10.1,credit-card,debit purchase coffe food anglesea,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 4 Kings Coffee & Food Anglesea VIC,-10.1,credit-card,debit purchase king coffee food anglesea vic,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 48 Watt St Newcastle NSW,-10.1,credit-card,debit purchase watt newcastle nsw,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 4U Accountants Yatala QLD,-10.1,credit-card,debit purchase accountant yatala qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE 52 On Mort Lithgo NSW,-10.1,credit-card,debit purchase mort lithgo nsw,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE All Tint Window Tinting Strathpine QLD,-10.1,credit-card,debit purchase tint window tinting strathpine qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE All Zappas Waverley NSW,-10.1,credit-card,debit purchase zappas waverley nsw,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Allan's Screens & Blinds South WindsorNSW,-10.1,credit-card,debit purchase allan screen blind south windsornsw,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Allcott Hire Pty Ltd CharmhavenNSW,-10.1,credit-card,debit purchase allcott hire pty ltd charmhavennsw,credit,payment,0.9999825847242265,0.0
+DEBIT CARD PURCHASE Allcraft Automotives Moorabbin VIC,-10.1,credit-card,debit purchase allcraft automotives moorabbin vic,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Allen David G Assoc Professor Heidelberg VIC,-10.1,credit-card,debit purchase allen david assoc professor heidelberg vic,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Allied Earthmoving PTY Ltd. Gumda le QLD,-10.1,credit-card,debit purchase allied earthmoving pty ltd gumda qld,credit,payment,0.9999825847242265,0.0
+DEBIT CARD PURCHASE Allmake Washer Repairs Glenelg East SA,-10.1,credit-card,debit purchase allmake washer repair glenelg east,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Allrad Imaging Solutions PTY Ltd. Dandenong VIC,-10.1,credit-card,debit purchase allrad imaging solution pty ltd dandenong vic,credit,payment,0.9999825847242265,0.0
+DEBIT CARD PURCHASE Allure Hair Retreat Trigg WA,-10.1,credit-card,debit purchase allure hair retreat trigg,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Ally Fashion Aitkenvale QLD,-10.1,credit-card,debit purchase ally fashion aitkenvale qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE ALS Mechanical Repairs PTY Ltd. Penshurst NSW,-10.1,credit-card,debit purchase al mechanical repair pty ltd penshurst nsw,credit,payment,0.9999825847242265,0.0
+DEBIT CARD PURCHASE Altec Patio Builders Brisbane Seventeen Mile Rocks QLD,-10.1,credit-card,debit purchase altec patio builder brisbane seventeen mile rock qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Amalgamated Pest Control Townsville Currajong QLD,-10.1,credit-card,debit purchase amalgamated pest control townsville currajong qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Amazing Smiles Strathpine Dentist Strathpine QLD,-10.1,credit-card,debit purchase amazing smile strathpine dentist strathpine qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE AMCO Migration Consultant Services Melbourne VIC,-10.1,credit-card,debit purchase amco migration consultant service melbourne vic,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE An khang butcher & seafood Inala QLD,-10.1,credit-card,debit purchase khang butcher seafood inala qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Andrew Cartmill Spring Hill QLD,-10.1,credit-card,debit purchase andrew cartmill spring hill qld,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Andrew Rose Bespoke Jewellery Montmorency VIC,-10.1,credit-card,debit purchase andrew rose bespoke jewellery montmorency vic,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Angelus Enterprises PTY Ltd. West Perth WA,-10.1,credit-card,debit purchase angelus enterprise pty ltd west perth,credit,payment,0.9999825847242265,0.0
+DEBIT CARD PURCHASE Adelaide Aikido Club (Colonel Light Gardens) Colonel Light Gardens SA,-10.1,credit-card,debit purchase adelaide aikido club colonel light garden colonel light garden,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Adelaide Applied Physiotherapy,-10.1,credit-card,debit purchase adelaide applied physiotherapy,credit,payment,0.9922659865854863,0.0
+DEBIT CARD PURCHASE Adora Handmade Chocolates Rose NSW,-10.1,credit-card,debit purchase adora handmade chocolate rose nsw,credit,payment,0.9922659865854863,0.0
+EXCESS USAGE CHARGE,-15.0,credit-card,excess usage charge,credit,payment,0.9728348893855078,0.0
+Experience Oz Visa Purchase - Receipt 178782 In 0755922233 Date 07 Jul 2019 Card xxxxxxxxxxxx5999,-129.0,transaction,experience visa purchase receipt date,credit,payment,0.9999999891169927,0.0
+Explore & Develo Direct Debit - Receipt 149778 A00332DY0NUU,-741.21,transaction,explore develo direct debit receipt nuu,credit,transfer,0.9937770239976202,0.0
+EXPRESS MOTORCYCLES P/ Visa Purchase - Receipt 191857 In WEST IPSWICH Date 31 Aug 2019 Card xxxxxxxxxxxx1337,-44.95,savings,express motorcycle visa purchase receipt west ipswich date,credit,payment,0.9999999657334345,0.0
+Ext Tfr - NET#883755717 to 304480452 Martin Management Pty Ltd Property Managem,-20.0,credit-card,ext transfer net# martin management pty ltd property managem,credit,transfer,0.9999997723433217,0.0
+EZI*You Can Dance Pty Visa Purchase - Receipt 199406 In Emu Plains Date 26 Jul 2019 Card xxxxxxxxxxxx3306,-157.39,transaction,eziyou dance pty visa purchase receipt emu plain date,credit,payment,0.999999994803827,0.0
+FAST WOK PTY LTD Visa Purchase - Receipt 128183 In MERMAID WATE Date 08 Jan 2019 Card xxxxxxxxxxxx9344,-40.8,transaction,fast wok pty ltd visa purchase receipt mermaid wate date,credit,payment,0.9999999974600848,0.0
+FASTWAY NSW PTY LTD NORTH SYDNEY AUS Tap and Pay xx6620 Value Date: 17/10/2018,-2.95,transaction,fastway nsw pty ltd north sydney au tap pay value date date,credit,payment,0.9999395457628041,0.0
+FAUSTO PTY LTD Visa Purchase - Receipt 181817 In GLENMORE PAR Date 19 Feb 2019 Card xxxxxxxxxxxx7915,-8.0,transaction,fausto pty ltd visa purchase receipt glenmore par date,credit,payment,0.9999999974600848,0.0
+FDB'S RETAIL VARIETY Visa Purchase - Receipt 159935 In BOOVAL Date 28 Apr 2019 Card xxxxxxxxxxxx9772,-11.98,savings,fdb retail variety visa purchase receipt booval date,credit,payment,0.9999999657334345,0.0
+FEAST ON FRUIT Visa Purchase - Receipt 101536 In MORNINGSIDE Date 25 Jul 2019 Card xxxxxxxxxxxx1337,-2.53,savings,feast fruit visa purchase receipt morningside date,credit,payment,0.9999999657334345,0.0
+FENCE WORLD PTY LTD CA BOOLTURE QLD EFTPOS Purchase - Receipt 19180 Date 11 Apr 2019 Time 2:48PM Card xxxxxxxxxxxx1337,-182.0,savings,fence world pty ltd boolture qld eftpos purchase receipt date time,credit,payment,0.9999999999999205,0.0
+GREKOS GOURMET PTY LTD Visa Purchase - Receipt 130559 In GLENMORE PAR Date 06 Sep 2019 Card xxxxxxxxxxxx7915,-26.0,transaction,grekos gourmet pty ltd visa purchase receipt glenmore par date,credit,payment,0.9999999974600848,0.0
+GREY GUM INTL CAFE Visa Purchase - Receipt 164577 In PUTTY Date 03 Apr 2019 Card xxxxxxxxxxxx7915,-10.0,transaction,grey gum intl cafe visa purchase receipt putty date,credit,payment,0.9999999891169927,0.0
+HANJA PTY. LTD. Visa Purchase - Receipt 178776 In MELBOURNE Date 05 Jul 2019 Card xxxxxxxxxxxx4237,-19.64,transaction,hanja pty ltd visa purchase receipt melbourne date,credit,payment,0.9999999974600848,0.0
+HANNOS COUNTRY BUTCHER Visa Purchase - Receipt 121494 In NORTH MACLEA Date 23 Feb 2019 Card xxxxxxxxxxxx4237,-60.7,transaction,hannos country butcher visa purchase receipt north maclea date,credit,payment,0.9999999891169927,0.0
+INTERPARK AUSTRALIA Visa Purchase - Receipt 121810 In BELLA VISTA Date 12 Mar 2019 Card xxxxxxxxxxxx8240,-2.0,transaction,interpark australia visa purchase receipt bella vista date,credit,payment,0.9999999891169927,0.0
+INTL TRANSACTION FEE AUD 28.75,-20.0,credit-card,intl transaction fee aud,credit,bank-fee,0.999685179658551,0.0
+iou Internal Transfer - Receipt 540579 Savings Maximiser 0047378206,100.0,savings,iou internal transfer receipt saving maximiser,debit,transfer,1.0,0.0
+IPLAY Visa Purchase - Receipt 106375 In BROADBEACH Date 14 Jan 2019 Card xxxxxxxxxxxx9344,-40.0,transaction,iplay visa purchase receipt broadbeach date,credit,payment,0.9999999891169927,0.0
+IPSWICH CARPET COURT Visa Purchase - Receipt 161880 In BUNDAMBA Date 20 Jul 2019 Card xxxxxxxxxxxx9772,-1420.0,savings,ipswich carpet court visa purchase receipt bundamba date,credit,payment,0.9999999657334345,0.0
+IPSWICH CIVIC HALL Visa Purchase - Receipt 158745 In IPSWICH Date 12 Mar 2019 Card xxxxxxxxxxxx1337,-65.0,savings,ipswich civic hall visa purchase receipt ipswich date,credit,payment,0.9999999657334345,0.0
+IPSWICH DAY&NGHT CHE Visa Purchase - Receipt 138519 In IPSWICH Date 23 Mar 2019 Card xxxxxxxxxxxx9772,-9.95,savings,ipswich day&nght che visa purchase receipt ipswich date,credit,payment,0.9999999657334345,0.0
+IVANHOE HOTEL MANLY NS AUS Tap and Pay xx6620 Value Date: 25/09/2018,-22.0,transaction,ivanhoe hotel manly au tap pay value date date,credit,payment,0.9998718930486252,0.0
+J & S HOLDING CO PL Visa Purchase - Receipt 199239 In BROADBEACH Date 19 Jan 2019 Card xxxxxxxxxxxx9315,-12.8,transaction,holding visa purchase receipt broadbeach date,credit,payment,0.9999999891169927,0.0
+JABADAB PTY LTD Visa Purchase - Receipt 188438 In BROWNS PLAIN Date 31 Dec 2018 Card xxxxxxxxxxxx5999,-29.95,transaction,jabadab pty ltd visa purchase receipt brown plain date,credit,payment,0.9999999974600848,0.0
+JACK HORNER GROUP PT Visa Purchase - Receipt 138799 In JAMISONTOWN Date 18 Feb 2019 Card xxxxxxxxxxxx8240,-78.9,transaction,jack horner group visa purchase receipt jamisontown date,credit,payment,0.9999999891169927,0.0
+Janeya Phill Fiji Cruise Internal Transfer - Receipt 31730 Savings Maximiser 0082000232,-220.0,transaction,janeya phill fiji cruise internal transfer receipt saving maximiser,credit,transfer,0.9999999999889719,0.0
+JAY JAYS C79 Visa Purchase - Receipt 120675 In REDBANK Date 02 Mar 2019 Card xxxxxxxxxxxx7857,-71.95,savings,jay jay visa purchase receipt redbank date,credit,payment,0.9999999657334345,0.0
+JIMBOOMBA COMMERCIAL CTR JIMBOOMBA Receipt 589876 ATM owner fee of $0.00 charged by JIMBOOMBA COMMERCIAL CTR JIMBOOMBA Date 01 Mar 2019 Time 9:33AM Card xxxxxxxxxxxx5999,-1000.0,transaction,jimboomba commercial ctr jimboomba receipt atm owner fee charged jimboomba commercial ctr jimboomba date time,credit,cash-withdrawal,0.9978393462663763,0.0
+Jimmy Rods Gabba Visa Purchase - Receipt 109332 In Woolloongabb Date 17 Jan 2019 Card xxxxxxxxxxxx1337,-32.5,savings,jimmy rod gabba visa purchase receipt woolloongabb date,credit,payment,0.9999999657334345,0.0
+JLM Preschool PTY lTD Osko Payment to 062820 10197589 - Receipt 325392 - Ref Number NOTPROVIDED,-50.0,transaction,jlm preschool pty ltd osko payment receipt ref number notprovided,credit,payment,0.7327507816384992,0.0
+JOAN SUTHERLAND PERF Visa Purchase - Receipt 137984 In PENRITH Date 11 Nov 2018 Card xxxxxxxxxxxx3306,-56.0,transaction,joan sutherland perf visa purchase receipt penrith date,credit,payment,0.9999999891169927,0.0
+JOGERICH PTY LTD Visa Purchase - Receipt 131345 In IPSWICH Date 27 Jan 2019 Card xxxxxxxxxxxx7857,-29.99,savings,jogerich pty ltd visa purchase receipt ipswich date,credit,payment,0.9999999837509057,0.0
+JPAR INVESTMENTS PTY Visa Purchase - Receipt 199373 In MELBOURNE Date 07 Feb 2019 Card xxxxxxxxxxxx0985,-5.0,transaction,jpar investment pty visa purchase receipt melbourne date,credit,payment,0.999999994803827,0.0
+JUAN FIFTY PTY LTD Visa Purchase - Receipt 173182 In ALEXANDRA HE Date 24 May 2019 Card xxxxxxxxxxxx1337,-44.0,savings,juan fifty pty ltd visa purchase receipt alexandra date,credit,payment,0.9999999837509057,0.0
+Knotts Crossing Reso Katherine TAP AND PAY 3867,-16.5,credit-card,knotts crossing reso katherine tap pay,credit,payment,0.9728348893855078,0.0
+KOALA SLEEP Visa Purchase - Receipt 121861 In ALEXANDRIA Date 27 Oct 2018 Card xxxxxxxxxxxx7915,-1050.0,transaction,koala sleep visa purchase receipt alexandria date,credit,payment,0.9999999891169927,0.0
+KOBE JONES SYDNEY PT SYDNEY EFTPOS Purchase - Receipt 30076 Date 31 Dec 2018 Time 7:46PM Card xxxxxxxxxxxx7847,-226.25,transaction,kobe jones sydney sydney eftpos purchase receipt date time,credit,payment,0.9999999999999174,0.0
+KUNKAT PTY LTD Visa Purchase - Receipt 136249 In JIMBOOMBA Date 31 Jul 2019 Card xxxxxxxxxxxx5999,-35.85,transaction,kunkat pty ltd visa purchase receipt jimboomba date,credit,payment,0.9999999974600848,0.0
+KYTAY P/L Visa Purchase - Receipt 133533 In PENRITH Date 10 Mar 2019 Card xxxxxxxxxxxx3306,-78.4,transaction,kytay visa purchase receipt penrith date,credit,payment,0.9999999891169927,0.0
+LENAS GOURMET KIOSK Visa Purchase - Receipt 191444 In SYDNEY Date 20 Dec 2018 Card xxxxxxxxxxxx9344,-7.0,transaction,lena gourmet kiosk visa purchase receipt sydney date,credit,payment,0.999999998338801,0.0
+LIFELINE CLEVELAND Visa Purchase - Receipt 174439 In CLEVELAND Date 13 Aug 2019 Card xxxxxxxxxxxx7857,-22.0,savings,lifeline cleveland visa purchase receipt cleveland date,credit,payment,0.9999999657334345,0.0
+LIMELIGHT IPSWICH PTY Visa Purchase - Receipt 158278 In NORTH IPSWIC Date 21 May 2019 Card xxxxxxxxxxxx1337,-21.4,savings,limelight ipswich pty visa purchase receipt north ipswic date,credit,payment,0.999999988300395,0.0
+LIN JIA NEWS KIOSK SYDNEY NS AUS Tap and Pay xx6620 Value Date: 16/10/2018,-6.0,transaction,lin jia news kiosk sydney au tap pay value date date,credit,payment,0.99991651918616,0.0
+LINKT ACCT PAYT SYDNEY AUS Card xx3658 Value Date: 24/11/2018,-1.5,transaction,linkt acct payt sydney au value date date,credit,payment,0.9986645287362536,0.0
+Lukeyfix Appliance Repairs fridge repair Osko Payment to 633000 164500779 - Receipt 211081 - Ref Number NOTPROVIDED,-161.5,transaction,lukeyfix appliance repair fridge repair osko payment receipt ref number notprovided,credit,payment,0.5563004591609652,0.0
+LUNA PARK SYDNEY PTY Visa Purchase - Receipt 125456 In MILSONS POIN Date 31 Dec 2018 Card xxxxxxxxxxxx9344,-5.0,transaction,luna park sydney pty visa purchase receipt milsons poin date,credit,payment,0.9999999991016535,0.0
+M JHENG & F LI Visa Purchase - Receipt 199788 In PENRITH Date 05 May 2019 Card xxxxxxxxxxxx3306,-12.5,transaction,jheng visa purchase receipt penrith date,credit,payment,0.9999999891169927,0.0
+MAIDENWELL HOTEL Visa Purchase - Receipt 120307 In MAIDENWELL Date 19 Aug 2019 Card xxxxxxxxxxxx1337,-48.6,savings,maidenwell hotel visa purchase receipt maidenwell date,credit,payment,0.9999999657334345,0.0
+MALLANGANEE HOTEL&PB Visa Purchase - Receipt 129868 In MALLANGANEE Date 22 Jan 2019 Card xxxxxxxxxxxx1337,-15.2,savings,mallanganee hotel& visa purchase receipt mallanganee date,credit,payment,0.9999999657334345,0.0
+MARLEYSPOON.COM.AU ALEXANDRIA NS AUS Card xx7709 Value Date: 06/08/2018,-79.0,transaction,alexandria au value date date,credit,payment,0.9980734650753444,0.0
+MARUHAN PTY LTD HAYMARKET AU Card xx7977,-7.0,transaction,maruhan pty ltd haymarket,credit,payment,0.9071413812275081,0.0
+Matt Bull Window Tinti Visa Purchase - Receipt 131145 In NEWTOWN Date 13 Aug 2019 Card xxxxxxxxxxxx7857,-77.0,savings,matt bull window tinti visa purchase receipt newtown date,credit,payment,0.9999999657334345,0.0
+MBaker Transfer to Brian Glasgow - Receipt 688356 To 032570 395813,-3000.0,transaction,mbaker transfer brian glasgow receipt,credit,transfer,0.9999961295248265,0.0
+MC deposit kitchen update BPAY Bill Payment - Receipt 225753 To Qantas Credit Cards 5268797470404697,-1400.0,transaction,deposit kitchen update bpay bill payment receipt qantas credit,credit,transfer,0.907546450630141,0.0
+MK TRAINING SOLUTIONS Visa Purchase - Receipt 154356 In BEAUDESERT Date 09 Feb 2019 Card xxxxxxxxxxxx5999,-30.0,transaction,training solution visa purchase receipt beaudesert date,credit,payment,0.9999999891169927,0.0
+MOBIL JIMBOOMBA JIMBOOMBA EFTPOS Purchase - Receipt 1644 Date 19 Jun 2019 Time 5:39PM Card xxxxxxxxxxxx5999,-180.0,transaction,mobil jimboomba jimboomba eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+Momo Bar Manly NS AUS Tap and Pay xx6620 Value Date: 19/10/2018,-15.9,transaction,momo bar manly au tap pay value date date,credit,payment,0.9998718930486252,0.0
+MONDAYTOSUNDAY PTY. MOSMAN AUS Card xx7709 Value Date: 04/08/2018,-9.0,transaction,mondaytosunday pty mosman au value date date,credit,payment,0.9989015178319732,0.0
+MR PHONE PTY LTD Visa Purchase - Receipt 179333 In NORTH IPSWIC Date 09 Nov 2018 Card xxxxxxxxxxxx7857,-25.0,savings,phone pty ltd visa purchase receipt north ipswic date,credit,payment,0.9999999837509057,0.0
+MR TOYS Visa Purchase - Receipt 129110 In IPSWICH Date 05 Oct 2018 Card xxxxxxxxxxxx2812,-4.99,savings,toy visa purchase receipt ipswich date,credit,payment,0.9999999657334345,0.0
+MUFFIN BREAK PENRITH Visa Purchase - Receipt 155859 In PENRITH Date 19 Jul 2019 Card xxxxxxxxxxxx7915,-13.8,transaction,muffin break penrith visa purchase receipt penrith date,credit,payment,0.9999999891169927,0.0
+MULLEIN PHARMACY SPR Visa Purchase - Receipt 186044 In SPRINGFIELD Date 27 Oct 2018 Card xxxxxxxxxxxx9772,-5.47,savings,mullein pharmacy spr visa purchase receipt springfield date,credit,payment,0.9999999657334345,0.0
+NATA ENTERPRISES PTY Visa Purchase - Receipt 138604 In TUGGERAH Date 07 Nov 2018 Card xxxxxxxxxxxx5999,-20.1,transaction,nata enterprise pty visa purchase receipt tuggerah date,credit,payment,0.999999994803827,0.0
+NATM AUTOMOTIVE PTY Visa Purchase - Receipt 172995 In BROOKVALE Date 05 Jan 2019 Card xxxxxxxxxxxx9344,-1465.15,transaction,natm automotive pty visa purchase receipt brookvale date,credit,payment,0.999999994803827,0.0
+Now Healthy Visa Purchase - Receipt 146479 In Forest Lake Date 10 Sep 2019 Card xxxxxxxxxxxx7857,-12.45,savings,healthy visa purchase receipt forest lake date,credit,payment,0.9999999657334345,0.0
+NTH IPSWICH NTH IPSWICH - RIVERLINK S Receipt 34608 ATM owner fee of $0.00 charged by NTH IPSWICH NTH IPSWICH - RIVERLINK S Date 04 Jul 2019 Time 7:37PM Card xxxxxxxxxxxx1337,-50.0,savings,nth ipswich nth ipswich riverlink receipt atm owner fee charged nth ipswich nth ipswich riverlink date time,credit,cash-withdrawal,0.9940096222351094,0.0
+OCEAN SUSHI DEE WHY NS AUS Card xx3658 Value Date: 19/10/2018,-12.5,transaction,ocean sushi dee au value date date,credit,payment,0.9980734650753444,0.0
+OLLEY'S ORANGE Visa Purchase - Receipt 198794 In NORTH MACLEA Date 23 Feb 2019 Card xxxxxxxxxxxx4237,-10.4,transaction,olley orange visa purchase receipt north maclea date,credit,payment,0.9999999891169927,0.0
+ONE STOP WATCH & SHO Visa Purchase - Receipt 166808 In BROWNS PLAIN Date 15 Jul 2019 Card xxxxxxxxxxxx5999,-36.9,transaction,one stop watch sure visa purchase receipt brown plain date,credit,payment,0.9999999891169927,0.0
+PACIFIC SMILES GROU BR OWNS PLAINS EFTPOS Purchase - Receipt 15744 Date 03 Apr 2019 Time 10:24AM Card xxxxxxxxxxxx5999,-150.0,transaction,pacific smile grou owns plain eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+PAVEL & CO SYDNEY NS AUS Tap and Pay xx6620 Value Date: 17/10/2018,-3.0,transaction,pavel sydney au tap pay value date date,credit,payment,0.99991651918616,0.0
+PAY AMP LIFE LIMITED,-471.31,transaction,pay amp life limited,credit,payment,0.7172988517343493,0.0
+PAYW BIG W 0282 SPRINGFIELD 28/07/19 Card Purchase,-18.0,savings,payw big springfield date purchase,credit,payment,0.9999997801817216,0.0
+PAYW BP WATERFORD 1653 WATERFORD 24/07/19 Card Purchase,-31.5,savings,payw waterford waterford date purchase,credit,payment,0.9999997801817216,0.0
+PAYW CALTEX YARRABILBA YARRABILBA 15/09/19 Card Purchase,-50.0,savings,payw caltex yarrabilba yarrabilba date purchase,credit,payment,0.9999997801817216,0.0
+PAYW CHEMIST WAREHOUSE BLACKTOWN 01/12/19 Card Purchase,-31.47,transaction,payw chemist warehouse blacktown date purchase,credit,payment,0.9999994523487111,0.0
+PAYW COLES EXPRESS 2133 TANNUM SANDS 16/03/19 Card Purchase,-2.2,savings,payw cole express tannum sand date purchase,credit,payment,0.9999999361055426,0.0
+PAYW EG FUELCO 1540 CHULLOR CHULLORA 05/08/19 Card Purchase,-42.49,transaction,payw fuelco chullor chullora date purchase,credit,payment,0.9999994523487111,0.0
+PAYW PRICELINE MORAYFIELD MORAYFIELD 11/10/19 Card Purchase,-8.99,transaction,payw priceline morayfield morayfield date purchase,credit,payment,0.9999994523487111,0.0
+PAYW SHELL ALDERLEY ALDERLEY 29/12/19 Card Purchase,-14.97,transaction,payw shell alderley alderley date purchase,credit,payment,0.9999994523487111,0.0
+PAYW TARGET 5010 EARLVILLE 11/05/19 Card Purchase,-77.0,transaction,payw target earlville date purchase,credit,payment,0.9999994523487111,0.0
+PAYW TARGETC 6408 CLIFTON BCH 30/01/20 Card Purchase,-24.0,transaction,payw targetc clifton bch date purchase,credit,payment,0.9999994523487111,0.0
+PAYW WOOLWORTHS 1056 NARRABEEN 04/07/19 Card Purchase,-30.7,transaction,payw woolworth narrabeen date purchase,credit,payment,0.9999996018339663,0.0
+PENRITH MAZDA CENTRE JAMISONTOWN EFTPOS Purchase - Receipt 83567 Date 18 Apr 2019 Time 11:50AM Card xxxxxxxxxxxx3306,-342.0,transaction,penrith mazda centre jamisontown eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+PENRITH PANTHERS STA Visa Purchase - Receipt 190866 In PENRITH Date 17 Mar 2019 Card xxxxxxxxxxxx7915,-33.5,transaction,penrith panther sta visa purchase receipt penrith date,credit,payment,0.9999999891169927,0.0
+PENRITH RASHAYS Visa Purchase - Receipt 180210 In PENRITH Date 31 Jan 2019 Card xxxxxxxxxxxx7915,-53.0,transaction,penrith rashays visa purchase receipt penrith date,credit,payment,0.9999999891169927,0.0
+PHARMPRO QLD PTY LTD Visa Purchase - Receipt 149514 In FLINDERS VIE Date 17 Jan 2019 Card xxxxxxxxxxxx1337,-3.99,savings,pharmpro qld pty ltd visa purchase receipt flinders vie date,credit,payment,0.9999999837509057,0.0
+POS #001731-KMART 1111 TRARALGON AU,-23.15,transaction,po kmart traralgon,credit,payment,0.9998810827657084,0.0
+POS #002339-COLES 5588 KIRRAWEE AU,-13.3,transaction,po cole kirrawee,credit,payment,0.9999821906687284,0.0
+POS #183707 - COLES 4964 ADELAIDE AU 0861,-22.3,transaction,po cole adelaide,credit,payment,0.9999821906687284,0.0
+POS Including Cash Out#063537-WOOLWORTHS 3208\MORWELL VIC AU,-53.6,transaction,po including cash out# woolworth morwell vic,credit,payment,0.999953831061485,0.0
+POS purchase005193/0129165258 CALTEX STARMART GOODNA AU,-30.0,savings,po purchase caltex starmart goodna,credit,payment,0.9999909248141224,0.0
+POS purchase006297/0315161447 BIG W 0266 CAPALABA AU,-80.25,savings,po purchase big capalaba,credit,payment,0.9999909248141224,0.0
+POS purchase006538/0121160816 BP EXPRESS 7048 MT WARREN PK AU,-25.02,savings,po purchase express warren,credit,payment,0.9999909248141224,0.0
+POS purchase006595/0619112812 PLINE PH CABOOLTURE 0457 CABOOLTURE,-11.99,savings,po purchase pline caboolture caboolture,credit,payment,0.9999909248141224,0.0
+POS purchase007249/0603093340 BP KENNEDY DRIVE 460TWEED HEADS AU,-40.0,savings,po purchase kennedy drive tweed head,credit,payment,0.9999909248141224,0.0
+POS#092421-COLES EXPRESS 6956 MEEKATHARRA AU,-3.0,transaction,pos# cole express meekatharra,credit,payment,0.9484765627965391,0.0
+POS#103685-WOOLWORTHS 4330\HARVEST LAKE WA AU,-21.3,transaction,pos# woolworth harvest lake,credit,payment,0.8662721705114048,0.0
+POS#107570-COLES EXPRESS 1927 DEERAGUN AU,-29.54,transaction,pos# cole express deeragun,credit,payment,0.9484765627965391,0.0
+POST BEAUDESERT-RET BE Visa Purchase - Receipt 137228 In BEAUDESERT Date 26 Jun 2019 Card xxxxxxxxxxxx5999,-8.55,transaction,post beaudesertret visa purchase receipt beaudesert date,credit,payment,0.9999999891169927,0.0
+POST Booval Fair Bo Visa Purchase - Receipt 138165 In BOOVAL Date 24 Jan 2019 Card xxxxxxxxxxxx1337,-61.3,savings,post booval fair visa purchase receipt booval date,credit,payment,0.9999999657334345,0.0
+POST BRIGHT LPO BR IGHT V EFTPOS Purchase - Receipt 3538 Date 14 Jan 2019 Time 10:45AM Card xxxxxxxxxxxx9172,-22.35,transaction,post bright lpo alright eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+POST GLENMORE PARK LGL Visa Purchase - Receipt 106834 In GLENMORE PAR Date 29 Mar 2019 Card xxxxxxxxxxxx8240,-38.3,transaction,post glenmore park lgl visa purchase receipt glenmore par date,credit,payment,0.9999999891169927,0.0
+Postmart Plus Visa Purchase - Receipt 160655 In Melbourne Date 20 Dec 2018 Card xxxxxxxxxxxx9809,-6.0,transaction,postmart plus visa purchase receipt melbourne date,credit,payment,0.9999999891169927,0.0
+PP*FARDONATION Visa Purchase - Receipt 124350 In ALBANY CREEK Date 08 Sep 2019 Card xxxxxxxxxxxx1337,-10.0,savings,ppfardonation visa purchase receipt albany creek date,credit,payment,0.9999999657334345,0.0
+PP*KING Visa Purchase - Receipt 114192 In BUFF POINT Date 11 Nov 2018 Card xxxxxxxxxxxx4237,-10.5,transaction,ppking visa purchase receipt buff point date,credit,payment,0.9999999891169927,0.0
+PRICELINE PHRMCY GTWY BEELIAR AUS Card xx8940 Value Date: 06/04/2019,-30.92,transaction,priceline phrmcy gtwy beeliar au value date date,credit,payment,0.9980734650753444,0.0
+PROFESSIONAIL WESTFIEL Visa Purchase - Receipt 174367 In SYDNEY Date 28 Dec 2018 Card xxxxxxxxxxxx9344,-70.0,transaction,professionail westfiel visa purchase receipt sydney date,credit,payment,0.999999998338801,0.0
+PROVENDER HOLDINGS AUS Visa Purchase - Receipt 109318 In WATERLOO Date 28 Mar 2019 Card xxxxxxxxxxxx7857,-4.4,savings,provender holding au visa purchase receipt waterloo date,credit,payment,0.9999998876399849,0.0
+PUMA CITISWICH Visa Purchase - Receipt 147711 In BUNDAMBA Date 01 Oct 2018 Card xxxxxxxxxxxx2812,-42.53,savings,puma citiswich visa purchase receipt bundamba date,credit,payment,0.9999999657334345,0.0
+Purchase at BP 2GO WANAKA - NZD 89.68,-84.43,transaction,purchase wanaka nzd,credit,payment,0.9927133446594931,0.0
+Q SUPERCENTRE AMCAL Visa Purchase - Receipt 172993 In MERMAID WATE Date 06 Jan 2019 Card xxxxxxxxxxxx9315,-13.99,transaction,supercentre amcal visa purchase receipt mermaid wate date,credit,payment,0.9999999891169927,0.0
+QAL FINANCE PTY LTD Visa Purchase - Receipt 102135 In BILINGA Date 01 Feb 2019 Card xxxxxxxxxxxx9344,-25.0,transaction,qal finance pty ltd visa purchase receipt bilinga date,credit,payment,0.9999999974600848,0.0
+QANTAS AIRWA0812493248089 Visa Purchase - Receipt 175781 In MASCOT Date 23 Mar 2019 Card xxxxxxxxxxxx4237,-211.8,transaction,qantas airwa visa purchase receipt mascot date,credit,payment,0.9999999891169927,0.0
+QKP*EMF Performance Ce Visa Purchase - Receipt 161915 In Robina Date 31 Jan 2019 Card xxxxxxxxxxxx9344,-45.85,transaction,qkpemf performance visa purchase receipt robina date,credit,payment,0.9999999891169927,0.0
+QUEEN ST STORE PL Visa Purchase - Receipt 106367 In MELBOURNE Date 30 Mar 2019 Card xxxxxxxxxxxx4237,-11.0,transaction,queen store visa purchase receipt melbourne date,credit,payment,0.9999999891169927,0.0
+QUEEN ST STORE PL Visa Purchase - Receipt 167968 In MELBOURNE Date 18 Dec 2018 Card xxxxxxxxxxxx4237,-17.48,transaction,queen store visa purchase receipt melbourne date,credit,payment,0.9999999891169927,0.0
+QUEENSLAND MUSEUM Visa Purchase - Receipt 149941 In SOUTH BRISBA Date 30 Jun 2019 Card xxxxxxxxxxxx4237,-46.0,transaction,queensland museum visa purchase receipt south brisba date,credit,payment,0.9999999891169927,0.0
+QUEENSLAND URBAN UTI Visa Purchase - Receipt 176693 In FORTITUDE VA Date 02 Apr 2019 Card xxxxxxxxxxxx1337,-264.77,savings,queensland urban uti visa purchase receipt fortitude date,credit,payment,0.9999999657334345,0.0
+QUICK EASY CAR WASH GARBUTT QL AUS Card xx9968 Value Date: 16/02/2019,-20.4,transaction,quick easy car wash garbutt au value date date,credit,payment,0.9980734650753444,0.0
+RADISSON RESORT Visa Purchase - Receipt 115633 Foreign Currency Amount: FJD 198.00 In NADI Date 13 Jun 2019 Card xxxxxxxxxxxx4832,-135.74,credit-card,radisson resort visa purchase receipt foreign currency amount fjd nadi date,credit,payment,0.9999999992312631,0.0
+Radley's Metcentre Sydney TAP AND PAY 7745,-11.0,credit-card,radley metcentre sydney tap pay,credit,payment,0.9962855812038186,0.0
+Railway Hotel Beaudes Visa Purchase - Receipt 185884 In Beaudesert Date 09 Aug 2019 Card xxxxxxxxxxxx5999,-50.0,transaction,railway hotel beaudes visa purchase receipt beaudesert date,credit,payment,0.9999999891169927,0.0
+RAINBOW CITY PLAY BA HILLCREST EFTPOS Purchase - Receipt 7367 Date 31 Aug 2019 Time 12:38PM Card xxxxxxxxxxxx5999,-5.15,transaction,rainbow city play hillcrest eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+RAMSON TRADING PTY L Visa Purchase - Receipt 179572 In MELBOURNE Date 06 May 2019 Card xxxxxxxxxxxx4237,-21.0,transaction,ramson trading pty visa purchase receipt melbourne date,credit,payment,0.999999994803827,0.0
+RARE MIDTOWN Visa Purchase - Receipt 113475 In MELBOURNE Date 09 Jan 2019 Card xxxxxxxxxxxx4237,-46.0,transaction,rare midtown visa purchase receipt melbourne date,credit,payment,0.9999999891169927,0.0
+RASHAYS IPSWICH P/L Visa Purchase - Receipt 187181 In NORTH IPSWIC Date 16 Jan 2019 Card xxxxxxxxxxxx7857,-37.0,savings,rashays ipswich visa purchase receipt north ipswic date,credit,payment,0.9999999657334345,0.0
+RASOI MASTER Visa Purchase - Receipt 167078 In SOUTHPORT Date 19 Feb 2019 Card xxxxxxxxxxxx9344,-26.85,transaction,rasoi master visa purchase receipt southport date,credit,payment,0.9999999891169927,0.0
+rates for Leichhardt BPAY Bill Payment - Receipt 609139 To IPSWICH CITY COUNCIL 471303,-462.6,savings,rate leichhardt bpay bill payment receipt ipswich city council,credit,transfer,0.8341008866872728,0.0
+RAZOR BROS BARBER SH Visa Purchase - Receipt 148761 In YARRABILBA Date 04 Sep 2019 Card xxxxxxxxxxxx5999,-18.0,transaction,razor bros barber visa purchase receipt yarrabilba date,credit,payment,0.9999999891169927,0.0
+RCT CATERING Visa Purchase - Receipt 148936 In WARRAGAMBA Date 20 Dec 2018 Card xxxxxxxxxxxx3306,-43.0,transaction,rct catering visa purchase receipt warragamba date,credit,payment,0.9999999891169927,0.0
+READINGENTERTAINMENT Visa Purchase - Receipt 130601 In SOUTH MELBOU Date 19 Dec 2018 Card xxxxxxxxxxxx7915,-58.4,transaction,readingentertainment visa purchase receipt south melbou date,credit,payment,0.9999999891169927,0.0
+REAL FF PTY LTD Visa Purchase - Receipt 176410 In SOUTH MELBOU Date 21 Feb 2019 Card xxxxxxxxxxxx4237,-13.9,transaction,real pty ltd visa purchase receipt south melbou date,credit,payment,0.9999999974600848,0.0
+REAL SOLUTION CORPOR Visa Purchase - Receipt 125462 In MANLY Date 01 Jan 2019 Card xxxxxxxxxxxx9344,-15.8,transaction,real solution corpor visa purchase receipt manly date,credit,payment,0.9999999891169927,0.0
+RESTAURANT SUDA Visa Purchase - Receipt 154234 In MELBOURNE Date 01 Feb 2019 Card xxxxxxxxxxxx0985,-21.0,transaction,restaurant suda visa purchase receipt melbourne date,credit,payment,0.9999999891169927,0.0
+RETSIL TAXI SERVICE Visa Purchase - Receipt 198565 In BERKELEY VAL Date 24 Nov 2018 Card xxxxxxxxxxxx4237,-26.7,transaction,retsil taxi service visa purchase receipt berkeley val date,credit,payment,0.9999999891169927,0.0
+RHUM-BA-LIMITED Visa Purchase - Receipt 146759 Foreign Currency Amount: 0.00 In NADI Date 06 Jun 2019 Card xxxxxxxxxxxx4832,-1456.49,credit-card,rhumbalimited visa purchase receipt foreign currency amount nadi date,credit,payment,0.9999999992312631,0.0
+ROLLD GATEWAY SYDNEY NS AUS Tap and Pay xx6620 Value Date: 09/10/2018,-10.4,transaction,rolld gateway sydney au tap pay value date date,credit,payment,0.99991651918616,0.0
+Ruby Chews POS Visa Purchase - Receipt 119961 In North Ipswic Date 21 May 2019 Card xxxxxxxxxxxx1337,-14.5,savings,ruby chew po visa purchase receipt north ipswic date,credit,payment,0.9999999999942635,0.0
+RX INTERNATIONAL P/L Visa Purchase - Receipt 147416 In SOUTH BRISBA Date 30 Jun 2019 Card xxxxxxxxxxxx4237,-6.0,transaction,international visa purchase receipt south brisba date,credit,payment,0.9999999891169927,0.0
+S&S PENRITH Visa Purchase - Receipt 127098 In PENRITH Date 21 Jun 2019 Card xxxxxxxxxxxx7915,-69.95,transaction,penrith visa purchase receipt penrith date,credit,payment,0.9999999891169927,0.0
+SAHARA GRILL PTY LTD Visa Purchase - Receipt 185427 In MASCOT Date 12 Nov 2018 Card xxxxxxxxxxxx4237,-17.0,transaction,sahara grill pty ltd visa purchase receipt mascot date,credit,payment,0.9999999974600848,0.0
+SMOKEMART - TUGGERAH Visa Purchase - Receipt 165242 In TUGGERAH Date 06 Dec 2018 Card xxxxxxxxxxxx5999,-49.95,transaction,smokemart tuggerah visa purchase receipt tuggerah date,credit,payment,0.9999999891169927,0.0
+SMP*Flessers Bakery Ca nungra04 EFTPOS Purchase - Receipt 6292 Date 06 May 2019 Time 11:37AM Card xxxxxxxxxxxx5999,-25.1,transaction,smpflessers bakery nungra eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+SNACKS R US VENDING Visa Purchase - Receipt 139273 In WILLIAMSTOWN Date 20 Feb 2019 Card xxxxxxxxxxxx4237,-2.7,transaction,snack vending visa purchase receipt williamstown date,credit,payment,0.9999999891169927,0.0
+SP * MYHOUSEAU Visa Purchase - Receipt 103779 In BOTANY Date 22 Oct 2018 Card xxxxxxxxxxxx3306,-239.9,transaction,myhouseau visa purchase receipt botany date,credit,payment,0.9999999891169927,0.0
+SPAR EXPRESS UPPER COO Visa Purchase - Receipt 120836 In UPPER COOMER Date 01 Jan 2019 Card xxxxxxxxxxxx4237,-4.98,transaction,spar express upper coo visa purchase receipt upper coomer date,credit,payment,0.9999999891169927,0.0
+SPAR TEXAS Visa Purchase - Receipt 120308 In TEXAS Date 20 Aug 2019 Card xxxxxxxxxxxx1337,-11.59,savings,spar texas visa purchase receipt texas date,credit,payment,0.9999999657334345,0.0
+Specialist Clin Phmcy Visa Purchase - Receipt 179351 In Kingswood Date 29 Jul 2019 Card xxxxxxxxxxxx3306,-45.98,transaction,specialist clin phmcy visa purchase receipt kingswood date,credit,payment,0.9999999891169927,0.0
+spider rego BPAY Bill Payment - Receipt 59890 To TMR REG RENEW 48173 8507,-185.8,savings,spider rego bpay bill payment receipt tmr reg renew,credit,transfer,0.8341008866872728,0.0
+SPIRIT HOTELS Visa Purchase - Receipt 101516 In SPRINGFIELD Date 06 Sep 2019 Card xxxxxxxxxxxx7857,-16.8,savings,spirit hotel visa purchase receipt springfield date,credit,payment,0.9999999657334345,0.0
+SQ *XPRESSO MOBILE CAF Visa Purchase - Receipt 181212 In Horsley Park Date 15 Apr 2019 Card xxxxxxxxxxxx8240,-4.5,transaction,xpresso mobile caf visa purchase receipt horsley park date,credit,payment,0.9999999892991501,0.0
+SRDAN SAVIC Osko Payment to +61-401597520 - Receipt 298244 - Ref Number NOTPROVIDED,-0.12,transaction,srdan savic osko payment receipt ref number notprovided,credit,payment,0.5563004591609652,0.0
+SSP HOKKA HOKKA T2 Visa Purchase - Receipt 181359 In MASCOT Date 17 Dec 2018 Card xxxxxxxxxxxx4237,-19.9,transaction,ssp hokka hokka visa purchase receipt mascot date,credit,payment,0.9999999891169927,0.0
+SUPER CHEAP AUTO GARBUTT QL AUS Card xx9968 Value Date: 20/01/2019,-51.98,transaction,super cheap auto garbutt au value date date,credit,payment,0.9980734650753444,0.0
+Super Value Varietie Brookvale TAP AND PAY 7745,-16.5,credit-card,super value varietie brookvale tap pay,credit,bank-fee,0.5333273398030843,0.0
+SUPERCHEAP AUTO BEAU Visa Purchase - Receipt 141445 In BEAUDESERT Date 17 Jun 2019 Card xxxxxxxxxxxx4237,-27.58,transaction,supercheap auto beau visa purchase receipt beaudesert date,credit,payment,0.9999999891169927,0.0
+SWAMINARAYAN GROUP E Visa Purchase - Receipt 182011 In IPSWICH Date 31 Oct 2018 Card xxxxxxxxxxxx7857,-32.5,savings,swaminarayan group visa purchase receipt ipswich date,credit,payment,0.9999999657334345,0.0
+SWEET & SHORT (VIC) Visa Purchase - Receipt 129398 In MELBOURNE Date 14 Dec 2018 Card xxxxxxxxxxxx4237,-12.0,transaction,sweet short vic visa purchase receipt melbourne date,credit,payment,0.9999999891169927,0.0
+Swimmers Internal Transfer - Receipt 641489 Orange One Platinum 0090258056,-80.0,transaction,swimmer internal transfer receipt orange one platinum,credit,transfer,0.9999999999889719,0.0
+Syd Aprt Dom Carp54 Visa Purchase - Receipt 183304 In Sydney Date 07 Jan 2019 Card xxxxxxxxxxxx9315,-9.5,transaction,syd aprt dom carp visa purchase receipt sydney date,credit,payment,0.999999998338801,0.0
+T and C Lang Hens Toni Taylor Osko Payment to 082778 115477116 - Receipt 490533 - Ref Number NOTPROVIDED,-160.0,transaction,lang hen toni taylor osko payment receipt ref number notprovided,credit,payment,0.5563004591609652,0.0
+T Gemmel H Ropata MBaker Osko Payment to 014720 410859897 - Receipt 543014 - Ref Number NOTPROVIDED,-600.0,transaction,gemmel ropata mbaker osko payment receipt ref number notprovided,credit,payment,0.5563004591609652,0.0
+TANGS SPICY HOT POT Visa Purchase - Receipt 199432 In MELBOURNE Date 15 Nov 2018 Card xxxxxxxxxxxx4237,-19.1,transaction,tang spicy hot pot visa purchase receipt melbourne date,credit,payment,0.9999999891169927,0.0
+TAPPOO LTD T/A W H S Visa Purchase - Receipt 165995 Foreign Currency Amount: FJD 16.40 In NADI Date 15 Jun 2019 Card xxxxxxxxxxxx3306,-11.2,transaction,tappoo ltd visa purchase receipt foreign currency amount fjd nadi date,credit,payment,0.999999992591885,0.0
+TARONGA CONSERVATION S MOSMAN NS AUS Tap and Pay xx6620 Value Date: 14/10/2018,-9.0,transaction,taronga conservation mosman au tap pay value date date,credit,payment,0.9998718930486252,0.0
+TARTT PTY LTD Visa Purchase - Receipt 184046 In FORSTER Date 15 Dec 2018 Card xxxxxxxxxxxx7915,-67.0,transaction,tartt pty ltd visa purchase receipt forster date,credit,payment,0.9999999974600848,0.0
+TASDEMIR PTY LTD Visa Purchase - Receipt 110482 In GLENMORE PAR Date 16 Mar 2019 Card xxxxxxxxxxxx7915,-15.5,transaction,tasdemir pty ltd visa purchase receipt glenmore par date,credit,payment,0.9999999974600848,0.0
+Tax n Super Internal Transfer - Receipt 522693 Savings Maximiser 0047832015,-400.0,transaction,tax super internal transfer receipt saving maximiser,credit,transfer,0.9999999998683904,0.0
+TAXI EPAY AUSTRALIA Visa Purchase - Receipt 161206 In WEST MELBOUR Date 06 Dec 2018 Card xxxxxxxxxxxx4237,-23.02,transaction,taxi epay australia visa purchase receipt west melbour date,credit,payment,0.9999999891169927,0.0
+TB FOOD SERVICES Visa Purchase - Receipt 129392 In BRISBANE AIR Date 28 Apr 2019 Card xxxxxxxxxxxx4237,-11.0,transaction,food service visa purchase receipt brisbane air date,credit,payment,0.9999999891169927,0.0
+TD BANK Visa Cash Withdrawal - Receipt 178108 Foreign Currency Amount: CAD 153.00 In Vancouver Date 08 Feb 2019 Card xxxxxxxxxxxx9809,-162.95,transaction,bank visa cash withdrawal receipt foreign currency amount cad vancouver date,credit,cash-withdrawal,0.8697894553422689,0.0
+TFNSW RAIL MASCOT EFTPOS Purchase - Receipt 114989 Date 31 Dec 2018 Time 8:54AM Card xxxxxxxxxxxx7847,-20.0,transaction,tfnsw rail mascot eftpos purchase receipt date time,credit,payment,0.9999999999982072,0.0
+The Bright Bookshop Visa Purchase - Receipt 172918 In Bright Date 31 Jan 2019 Card xxxxxxxxxxxx7924,-26.99,credit-card,bright bookshop visa purchase receipt bright date,credit,payment,0.9999999992312631,0.0
+The Cat Clinic Hobart New Town TAP AND PAY 3867,-81.0,credit-card,cat clinic hobart new town tap pay,credit,payment,0.9728348893855078,0.0
+TOPLINE HAIRDRESSERS 163617238424,-15.0,transaction,topline hairdresser,credit,payment,0.7172988517343493,0.0
+TOWRADGI BEACH HOTEL Visa Purchase - Receipt 155858 In TOWRADGI Date 18 Jul 2019 Card xxxxxxxxxxxx7915,-28.5,transaction,towradgi beach hotel visa purchase receipt towradgi date,credit,payment,0.9999999891169927,0.0
+TPH GROUP PTY LTD MONA VALE AUS Card xx7977 Value Date: 23/01/2020,-6.95,transaction,tph group pty ltd mona vale au value date date,credit,payment,0.9985731888073388,0.0
+TRANSPORTMAINRDS Visa Purchase - Receipt 197895 In BRISBANE Date 05 Aug 2019 Card xxxxxxxxxxxx5999,-139.92,transaction,transportmainrds visa purchase receipt brisbane date,credit,payment,0.9999999891169927,0.0
+TravelOnline PTY LTD TOCS264519 TAYLOR/G MR/T MRS Osko Payment to 064835 10000915 - Receipt 869264 - Ref Number NOTPROVIDED,-1000.0,transaction,travelonline pty ltd tocs taylorg mrt mr osko payment receipt ref number notprovided,credit,payment,0.7327507816384992,0.0
+TZ REDBANK PLAINS PL Visa Purchase - Receipt 136438 In IPSWICH Date 29 Jul 2019 Card xxxxxxxxxxxx7857,-4.8,savings,redbank plain visa purchase receipt ipswich date,credit,payment,0.9999999657334345,0.0
+VANGUARD INVESTMENTS CommBank app BPAY 5 020400528948,-200.0,transaction,vanguard investment commbank app bpay,credit,payment,0.9970353517919534,0.0
+VANTAGE FUELS 6916 Visa Purchase - Receipt 112136 In HEALESVILLE Date 01 Feb 2019 Card xxxxxxxxxxxx9267,-31.15,transaction,vantage fuel visa purchase receipt healesville date,credit,payment,0.9999999891169927,0.0
+VEGAN GOURMET Visa Purchase - Receipt 193295 In INALA Date 09 Aug 2019 Card xxxxxxxxxxxx1337,-34.0,savings,vegan gourmet visa purchase receipt inala date,credit,payment,0.9999999657334345,0.0
+VENETO STORE PTY LTD Visa Purchase - Receipt 190424 In MELBOURNE Date 06 Feb 2019 Card xxxxxxxxxxxx4237,-14.48,transaction,veneto store pty ltd visa purchase receipt melbourne date,credit,payment,0.9999999974600848,0.0
+VESPACIFIC CAFE NARRABEEN AUS Tap and Pay xx6620 Value Date: 13/10/2018,-4.0,transaction,vespacific cafe narrabeen au tap pay value date date,credit,payment,0.9998718930486252,0.0
+VETCALL MERMAID WATE Visa Purchase - Receipt 134318 In MERMAID WATE Date 06 Feb 2019 Card xxxxxxxxxxxx9344,-157.36,transaction,vetcall mermaid wate visa purchase receipt mermaid wate date,credit,payment,0.9999999891169927,0.0
+VICTORIA RACING CLUB Visa Purchase - Receipt 160892 In FLEMINGTON Date 12 Jan 2019 Card xxxxxxxxxxxx9267,-25.0,transaction,victoria racing club visa purchase receipt flemington date,credit,payment,0.9999999891169927,0.0
+VILLAGE GOLF AUSTRALIA Visa Purchase - Receipt 106376 In SOUTH YARRA Date 14 Jan 2019 Card xxxxxxxxxxxx9344,-168.0,transaction,village golf australia visa purchase receipt south yarra date,credit,payment,0.9999999891169927,0.0
+virago sold money Internal Transfer - Receipt 852456 Orange Everyday 0035326002,800.0,savings,virago sold money internal transfer receipt orange everyday,debit,transfer,1.0,0.0
+Visa Purchase 03Mar Chemist Warehouse Athelston,-19.77,transaction,visa purchase mar chemist warehouse athelston,credit,payment,0.9999810541856013,0.0
+Visa Purchase 03May Caltex Carnegie Carnegie,-25.0,transaction,visa purchase may caltex carnegie carnegie,credit,payment,0.9999810541856013,0.0
+Visa Purchase 03Nov Jb Hi Fi Westlakes West Lake,-29.92,transaction,visa purchase nov westlakes west lake,credit,payment,0.9999810541856013,0.0
+Visa Purchase 19Feb Bp East Ballan 6844 Ballan,-5.5,transaction,visa purchase feb east ballan ballan,credit,payment,0.9999810541856013,0.0
+VW FINANCE Direct Debit - Receipt 122839 00649550,-431.77,transaction,finance direct debit receipt,credit,transfer,0.9937770239976202,0.0
+WADALBA NEWSAGENCY Visa Purchase - Receipt 175190 In WADALBA Date 20 Nov 2018 Card xxxxxxxxxxxx5999,-15.75,transaction,wadalba newsagency visa purchase receipt wadalba date,credit,payment,0.9999999891169927,0.0
+WARRAGAMBA WORKERS Visa Purchase - Receipt 148938 In WARRAGAMBA Date 20 Dec 2018 Card xxxxxxxxxxxx3306,-5.0,transaction,warragamba worker visa purchase receipt warragamba date,credit,payment,0.9999999891169927,0.0
+WASBI WARRIORS JET Visa Purchase - Receipt 114080 In BRISBANE AIR Date 14 Jan 2019 Card xxxxxxxxxxxx4237,-9.7,transaction,wasbi warrior jet visa purchase receipt brisbane air date,credit,payment,0.9999999891169927,0.0
+Wei San Tang Ash Osko Payment to 062475 10110626 - Receipt 710517 - Ref Number NOTPROVIDED,-10.0,transaction,wei san tang ash osko payment receipt ref number notprovided,credit,payment,0.5563004591609652,0.0
+Wendy Brad Fiji Cruise Internal Transfer - Receipt 748128 Savings Maximiser 0082000232,-277.0,transaction,wendy brad fiji cruise internal transfer receipt saving maximiser,credit,transfer,0.9999999999889719,0.0
+WENDY'S - TUGGERAH Visa Purchase - Receipt 158910 In TUGGERAH Date 18 Nov 2018 Card xxxxxxxxxxxx5999,-20.4,transaction,wendy tuggerah visa purchase receipt tuggerah date,credit,payment,0.9999999891169927,0.0
+WERRINGTON CELLARS Visa Purchase - Receipt 192689 In WERRINGTON Date 24 Dec 2018 Card xxxxxxxxxxxx8240,-16.0,transaction,werrington cellar visa purchase receipt werrington date,credit,payment,0.9999999891169927,0.0
+Western Suburbs Taxation Service Toni Taylor Osko Payment to 082286 692488683 - Receipt 253963 - Ref Number NOTPROVIDED,-160.0,transaction,western suburb taxation service toni taylor osko payment receipt ref number notprovided,credit,payment,0.5563004591609652,0.0
+WH SMITH AUSTRALIA Visa Purchase - Receipt 191636 In WOOLLOOMOOLO Date 15 Apr 2019 Card xxxxxxxxxxxx4237,-6.99,transaction,smith australia visa purchase receipt woolloomoolo date,credit,payment,0.9999999891169927,0.0
+WHARF Visa Purchase - Receipt 104899 In MELBOURNE Date 22 Jan 2019 Card xxxxxxxxxxxx0985,-5.0,transaction,wharf visa purchase receipt melbourne date,credit,payment,0.9999999891169927,0.0
+Whitehart Visa Purchase - Receipt 101990 In Melbourne Date 01 Feb 2019 Card xxxxxxxxxxxx0985,-28.0,transaction,whitehart visa purchase receipt melbourne date,credit,payment,0.9999999891169927,0.0
+WILD CARDS&GIFTS PAC Visa Purchase - Receipt 154506 In BROADBEACH Date 14 Feb 2019 Card xxxxxxxxxxxx2131,-10.49,transaction,wild &gifts pac visa purchase receipt broadbeach date,credit,payment,0.9999999891169927,0.0
+"Withdrawal - Non BBL ATM, DURAL CALTEX DURAL",-100.0,transaction,withdrawal non bbl atm dural caltex dural,credit,cash-withdrawal,0.9996861787312078,0.0
+Wona Sushi Visa Purchase - Receipt 133392 In Annerley Date 14 Apr 2019 Card xxxxxxxxxxxx1337,-8.4,savings,wona sushi visa purchase receipt annerley date,credit,payment,0.9999999657334345,0.0
+WONDERBAO PTY LTD Visa Purchase - Receipt 127725 In MELBOURNE Date 20 Mar 2019 Card xxxxxxxxxxxx4237,-14.4,transaction,wonderbao pty ltd visa purchase receipt melbourne date,credit,payment,0.9999999974600848,0.0
+WOODENBONG DRIVEWAY Visa Purchase - Receipt 136315 In WOODENBONG Date 23 Jan 2019 Card xxxxxxxxxxxx1337,-46.71,savings,woodenbong driveway visa purchase receipt woodenbong date,credit,payment,0.9999999657334345,0.0
+Woodhill State School PC Assoc UTIERA Osko Payment to 633108 146031984 - Receipt 729760 - Ref Number NOTPROVIDED,-116.0,transaction,woodhill state school assoc utiera osko payment receipt ref number notprovided,credit,payment,0.5563004591609652,0.0
+WOODMAN BEENLEIGH PT Visa Purchase - Receipt 159373 In JIMBOOMBA Date 08 Dec 2018 Card xxxxxxxxxxxx4237,-20.98,transaction,woodman beenleigh visa purchase receipt jimboomba date,credit,payment,0.9999999891169927,0.0
+WORONGARY COFFEE Visa Purchase - Receipt 156604 In WORONGARY Date 03 Mar 2019 Card xxxxxxxxxxxx5999,-21.75,transaction,worongary coffee visa purchase receipt worongary date,credit,payment,0.9999999891169927,0.0
+WST MORETN HOS & HLTH Visa Purchase - Receipt 113189 In IPSWICH Date 05 Mar 2019 Card xxxxxxxxxxxx7857,-30.0,savings,wst moretn ho hlth visa purchase receipt ipswich date,credit,payment,0.9999999657334345,0.0
+YD PTY LTD 407 Visa Purchase - Receipt 161917 In BIGGERA WATE Date 30 Jan 2019 Card xxxxxxxxxxxx9344,-149.99,transaction,pty ltd visa purchase receipt biggera wate date,credit,payment,0.9999999974600848,0.0
+YEES COLD STORAGE SE Visa Purchase - Receipt 151805 Foreign Currency Amount: FJD 44.70 In NADI Date 05 Jun 2019 Card xxxxxxxxxxxx3306,-30.3,transaction,yees cold storage visa purchase receipt foreign currency amount fjd nadi date,credit,payment,0.9999999891169927,0.0
+YELLOWCAB AUS 13192 BRISBANE Q EFTPOS Purchase - Receipt 4752 Date 22 Jan 2019 Time 4:16PM Card xxxxxxxxxxxx5999,-34.76,transaction,yellowcab au brisbane eftpos purchase receipt date time,credit,payment,0.9999999999996805,0.0
+YESS ATM Visa Cash Withdrawal - Receipt 175250 Foreign Currency Amount: FJD 515.00 In NADI FIJI Date 09 Jun 2019 Card xxxxxxxxxxxx3306,-349.32,transaction,yes atm visa cash withdrawal receipt foreign currency amount fjd nadi fiji date,credit,cash-withdrawal,0.9999982962395486,0.0
+YOU CAME AGAIN PL Visa Purchase - Receipt 128910 In WEST END Date 06 Jul 2019 Card xxxxxxxxxxxx1337,-33.0,savings,came visa purchase receipt west end date,credit,payment,0.9999999657334345,0.0
+YOU CAN DANCE PTY LT Visa Purchase - Receipt 104492 In EMU HEIGHTS Date 03 Aug 2019 Card xxxxxxxxxxxx3306,-35.0,transaction,dance pty visa purchase receipt emu height date,credit,payment,0.999999994803827,0.0
+Zali Felicity presents Internal Transfer - Receipt 354362 Orange Everyday 0031265789,-47.4,transaction,zali felicity present internal transfer receipt orange everyday,credit,transfer,0.9999999999999964,0.0
+ZAPVARIETY GLNMRE PK Visa Purchase - Receipt 188212 In GLENMORE PAR Date 10 Aug 2019 Card xxxxxxxxxxxx7915,-43.45,transaction,zapvariety glnmre visa purchase receipt glenmore par date,credit,payment,0.9999999891169927,0.0
+ZHANG PTY LTD NARRABEEN AUS Tap and Pay xx6620 Value Date: 30/09/2018,-29.1,transaction,zhang pty ltd narrabeen au tap pay value date date,credit,payment,0.9999119342482778,0.0
+ZHAOYANG AUSTRALIA Visa Purchase - Receipt 191176 In MELBOURNE Date 15 Nov 2018 Card xxxxxxxxxxxx4237,-12.3,transaction,zhaoyang australia visa purchase receipt melbourne date,credit,payment,0.9999999891169927,0.0
+ZING POP CULTURE Visa Purchase - Receipt 194845 In SPRINGFIELD Date 27 Jun 2019 Card xxxxxxxxxxxx7857,-18.0,savings,zing pop culture visa purchase receipt springfield date,credit,payment,0.9999999657334345,0.0
+ZONE BOWLING MILSONS P Visa Purchase - Receipt 103508 In MILSONS POIN Date 13 Feb 2019 Card xxxxxxxxxxxx7915,-93.6,transaction,zone bowling milsons visa purchase receipt milsons poin date,credit,payment,0.9999999891169927,0.0
+ZOUKI AT RAYMOND TERRA Visa Purchase - Receipt 150917 In SOUTH BRISBA Date 29 Oct 2018 Card xxxxxxxxxxxx9772,-4.0,savings,zouki raymond terra visa purchase receipt south brisba date,credit,payment,0.9999999657334345,0.0
