@@ -27,7 +27,17 @@ Code is divided into several scripts:
 
 ## Summary
 
+Used Machine Learning models:
+- Logistic Regression
+- Naive Bayes
+- SVM
+- Random Forest
+- Gradient Boosting
+For embeddings is used BOW + (TF, TF-IDF)
 
- 
+Used Deep Learning models:
+- MLP 
+- CNN 
+For emmbedings is used word embedding
 
-
+As input models use textual data and categorical data. Categorical data is transformed using One-Hot-Encoding technique or merged together with textual data.
