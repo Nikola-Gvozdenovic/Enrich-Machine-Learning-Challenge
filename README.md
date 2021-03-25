@@ -34,12 +34,12 @@ Used Machine Learning models:
 - Random Forest
 - Gradient Boosting
 
-For embeddings is used BOW + (TF, TF-IDF)
+BOW + (TF, TF-IDF) is used for word representation
 
 Used Deep Learning models:
 - MLP 
 - CNN 
  
-For emmbedings is used word embedding
+Word embedding is used for word representation
 
-As input models use textual data and categorical data. Categorical data is transformed using One-Hot-Encoding technique or merged together with textual data.
+As input, models use textual data and categorical data. Categorical data is transformed using One-Hot-Encoding technique or merged together with textual data.
