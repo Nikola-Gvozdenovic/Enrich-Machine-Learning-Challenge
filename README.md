@@ -43,3 +43,8 @@ Used Deep Learning models:
 Word embedding is used for word representation
 
 As input, models use textual data and categorical data. Categorical data is transformed using One-Hot-Encoding technique or merged together with textual data.
+
+## Created with
+- Python 3.7
+- Spyder
+- Google Colab (Jupyter Notebook)
