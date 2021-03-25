@@ -27,16 +27,16 @@ Code is divided into several scripts:
 
 ## Summary
 
-###Used Machine Learning models:
+Used Machine Learning models:
 - Logistic Regression
 - Naive Bayes
 - SVM
 - Random Forest
 - Gradient Boosting
 
-###For embeddings is used BOW + (TF, TF-IDF)
+For embeddings is used BOW + (TF, TF-IDF)
 
-###Used Deep Learning models:
+Used Deep Learning models:
 - MLP 
 - CNN 
  
